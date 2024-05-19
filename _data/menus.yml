@@ -1,0 +1,18 @@
+- title: 'Blog'
+  url: ''
+
+- title: 'Categories'
+  url: 'categories'
+
+- title: 'Publications'
+  url: 'publications'
+
+- title: 'Projects'
+  url: 'projects'
+
+# - title: 'Jekyll Paper for Github'
+#   absoluteUrl: true
+#   url: 'https://github.com/ghosind/Jekyll-Paper-Github'
+
+- title: 'About'
+  url: 'about'
