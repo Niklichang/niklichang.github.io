@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-About this blog: click [here](/2024-05-19-welcome-to-my-blog).
+About this blog: click [here](/2024/05/19/welcome-to-my-blog.md).
 
 ## Education
 - **University of California San Diego**
     - *B.S. Computer Engineering* \| Sep 2021 - Jun 2025
-    - *M.S. Machine Learning and Data Science, ECE* \| Sep 2025 - Jun 2026
+    - *M.S. Electrical Engineering (Machine Learning and Data Science)* \| Sep 2025 - Jun 2026
 
 ## Experience
 - **Salk Institute for Biological Studies**
