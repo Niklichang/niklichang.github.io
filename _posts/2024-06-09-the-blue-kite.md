@@ -2,8 +2,8 @@
 layout: post
 title:  "\"The Blue Kite\" by Tian ZhuangZhuang"
 date:   2024-06-09
-last_modified_at: 2024-06-09
-categories: [Chinese History]
+last_modified_at: 2024-06-19
+categories: [Chinese History, Movies]
 ---
 
 &emsp;I recently watched a movie called ["The Blue Kite,"](https://www.youtube.com/watch?v=GQsX8kTR0hE) or "蓝风筝,“ directed by Tian Zhuangzhuang. The movie follows the life of a boy growing up under Mao's rule during the 1950's to 1960's, including the death of Stalin, the Hundred Flowers Campaign, the Great Leap Forward, and the Cultural Revolution. The movie evokes a brunt viewpoint of a commoner's life in Beijing. Through the use of emotionally charged and polarizing imagery, Tian reveals certain realities about life around the time of the Cultural Revolution, including the random nature of cruelty and prevelance of violence in all domains of life.
