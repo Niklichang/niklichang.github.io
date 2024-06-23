@@ -121,17 +121,17 @@ $$
 
 What is really cool is that the $nth$ factorial is cancelled out by the $nth$ derivative constant for every element, resulting in the same answer as when we performed long division. We will come back to this.
 
-Let us prove that this is correct, and the series keeps going in the same pattern:
+Let us prove that this expression is correct:
 
 First multiply both sides by $1+x$
 
-$$1 \approx (1+x)(1 - x + x^2 - x^3 + x^4)$$
+$$1 = (1+x)(1 - x + x^2 - x^3 + x^4 + ...)$$
 
-$$1 \approx (1 - x + x^2 - x^3 + x^4)+$$ 
+$$1 = (1 - x + x^2 - x^3 + x^4 + ...)+$$ 
 
-$$\;\;\;\;\;\;\;\;\;\;(x - x^2 + x^3 - x^4)$$
+$$\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;(x - x^2 + x^3 - x^4 + x^5 + ...)$$
 
-$$1 = 1 \text{, as required.}$$
+$$1 = 1 \text{, as required, since it cancels out infinitely.}$$
 
 As we have shown, there are both algebra and calculus can derive this approximation, and both are very cool approaches. 
 <br><br>
