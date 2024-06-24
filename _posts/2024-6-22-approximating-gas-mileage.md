@@ -2,7 +2,7 @@
 layout: post
 title:  "Simple Approximations of Gas Mileage and Driving Arrival Times"
 date:   2024-06-22
-last_modified_at: 2024-06-22
+last_modified_at: 2024-06-23
 categories: [Mathematics]
 ---
 
@@ -196,7 +196,9 @@ $$ e^{ix} = \left( 1 - \frac{x^2}{2!} + \frac{x^4}{4!} - \cdots \right) + i\left
 
 $$ e^{ix} = \cos(x) + i\sin(x) $$
 
-And now, we can see that this equation all along, used throughout all the electrical engineering classes, explains the relationship between exponential and sinusoidal function's Taylor series. An interesting new perspective on a widely used equation.
+This is not to prove or derive Euler's Formula. $e$ is used to algebraically define $sin/cos$, so therefore it is weird to use it in this way. However, depicting Taylor expansions of $sin$ and $cos$ can reveal similarities between these functions and the $e$.
+
+And now, we can see that this equation used throughout all the electrical engineering classes can explain connections between exponential and sinusoidal function's Taylor series. An interesting new perspective on a widely used equation.
 
 Something cool is that Taylor series are what older calculators used to approximate trigonometric functions. They would take known values at angles such as 30, 45, 60 degrees and calculate with the offset of that. I have trouble finding documentation on that, but in modern times many calculators use the CORDIC algorithm, or a decimal CORDIC technique, which is outside the scope of this post (see [link](https://en.wikipedia.org/wiki/CORDIC)).
 
