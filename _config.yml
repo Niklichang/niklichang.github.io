@@ -6,7 +6,7 @@ title: Niklas Chang
 email: chang.niklas@gmail.com
 name: Niklas Chang
 description: >- # this means to ignore newlines until "baseurl:"
-  # B.S. Computer Engineering, UCSD
+# B.S. Computer Engineering, UCSD
 keywords: [] #[Your keywords]
 baseurl: '' # the subpath of your site, e.g. /`blog
 url: 'https://niklichang.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
