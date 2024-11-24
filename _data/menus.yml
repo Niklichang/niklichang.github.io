@@ -4,8 +4,8 @@
 - title: 'Categories'
   url: 'categories'
 
-- title: 'Publications'
-  url: 'publications'
+# - title: 'Publications'
+#   url: 'publications'
 
 - title: 'Projects'
   url: 'projects'
