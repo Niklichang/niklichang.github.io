@@ -1,6 +1,8 @@
 # Output
 _site
 
+_drafts/*
+
 # Cache
 .sass-cache
 .jekyll-metadata
