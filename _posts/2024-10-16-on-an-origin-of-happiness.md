@@ -2,7 +2,7 @@
 layout: post
 title:  "On an Origin of Happiness"
 date:   2024-10-16
-last_modified_at: 2024-10-16
+last_modified_at: 2024-12-04
 categories: [Misc]
 ---
 
@@ -26,4 +26,4 @@ There's this idea of being mindful and in control of your actions. What if there
 &emsp; I find that I experience this mental inertia all the time, and I have realized that there is something wise in what my friend's aunt says. If you like it, then eat more. If you want to do it, then just do it. This somewhat simple correlation inspires more than what it seems. 
 
 <br/>
-Is there a point to all this? Maybe you should go out there and do it. It might make you a bit more happy. (I'm trying)
+Maybe you should go out there and do it. It might make you a bit more happy.

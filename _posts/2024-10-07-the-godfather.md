@@ -2,7 +2,7 @@
 layout: post
 title:  "\"The Godfather\" by Mario Puzo"
 date:   2024-10-07
-last_modified_at: 2024-10-07
+last_modified_at: 2024-12-4
 categories: [Books]
 ---
 
@@ -20,4 +20,4 @@ categories: [Books]
 
 &emsp; I think that this is all in accordance to the balance of nature. It can be applied to this situation of the Mafia. How Don Corleone started it and how Michael ended it. It can be applied to the ending of the book. At first people wondered why Mama Corleone was so devout in Catholicism, and by the end of the book, Kay Adams Corleone did the exact same thing. And in general, this can be applied to families. We all hear the story of the driven, young man doing something great, but what about their son? Or their son's son? There is something about the environment you grow up in that gives rise to this behavior. One can be born into riches and fall into complacency. Can family wealth be kept forever, or will it eventually fall? Can families trancend this cyclical nature? Can you replicate the spectrum by exacting a harsh environment in which your children grow up in?
 
-&emsp; A funny question and no right answers. Now was this part of the irony in the book, and what does it have to do with capitalism? I don't know, but I'm thinking about it.
+&emsp; A funny question and no right answers. Now was this part of the irony in the book, and what does it have to do with capitalism?
