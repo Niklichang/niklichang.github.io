@@ -2,11 +2,15 @@
 layout: post
 title:  "The Daily Run"
 date:   2024-12-02
-last_modified_at: 2024-12-17
+last_modified_at: 2024-12-18
 categories: [Running]
 ---
 
-This is the the daily run, which is the start of a larger plan to improve the individual holistically (another post will eventually cover this). My goal with this post is to update it every single day with what I ran, thoughts on the run, and other miscellaneous ideas. Records can be accessed [here](https://www.strava.com/athletes/117513725).
+This is the the daily run, which is the start of a larger plan to improve the individual holistically (another post will eventually cover this). My goal with this post is to update it every single day with what I ran, thoughts on the run, and other miscellaneous ideas. Records can be accessed *[here](https://www.strava.com/athletes/117513725)*.
+
+<br/>
+
+**12/18/24, Day 7**: 2.40mi easy. Running at night has grown on me. It is great to run around the neighborhood and reminisce about all the people and see all the bright Christmas lights out there. There are some crazy Christmas setups around. Maybe should still try running during mornings. 
 
 <br/>
 
