@@ -2,11 +2,15 @@
 layout: post
 title:  "The Daily Run"
 date:   2024-12-02
-last_modified_at: 2024-12-18
+last_modified_at: 2024-12-19
 categories: [Running]
 ---
 
 This is the the daily run, which is the start of a larger plan to improve the individual holistically (another post will eventually cover this). My goal with this post is to update it every single day with what I ran, thoughts on the run, and other miscellaneous ideas. Records can be accessed *[here](https://www.strava.com/athletes/117513725)*.
+
+<br/>
+
+**12/19/24, Day 8**: 4.74mi mentally easy, but according to my watch heartrate, threshold. Probably never going to run through big street areas again, especially during morning traffic since the traffic lights are extremely annoying. The run seemed almost like a weird fartlek with a lot of complete stops. Still don't know whether i should completely stop the watch or just record a lap at each stop to save the pace. Glad to get it done early in the day though.
 
 <br/>
 
