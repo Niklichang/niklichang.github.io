@@ -2,7 +2,7 @@
 layout: post
 title:  "The Daily Run"
 date:   2024-12-02
-last_modified_at: 2024-12-19
+last_modified_at: 2024-12-20
 categories: [Running]
 ---
 
@@ -10,7 +10,11 @@ This is the the daily run, which is the start of a larger plan to improve the in
 
 <br/>
 
-**12/19/24, Day 8**: 4.74mi mentally easy, but according to my watch heartrate, threshold. Probably never going to run through big street areas again, especially during morning traffic since the traffic lights are extremely annoying. The run seemed almost like a weird fartlek with a lot of complete stops. Still don't know whether i should completely stop the watch or just record a lap at each stop to save the pace. Glad to get it done early in the day though.
+**12/20/24, Day 9**: 4.29mi super easy. This is probably what easy should feel like, but it is extremely slow. Able to talk to others with no extra effort. So slow, however, that after the run my knees feel somewhat irritated or inflamed. Must have been just the amount of time on feet; still not used to running for long periods. Anyways, it's a lot easier to run with other people. Should try doing that more often. 
+
+<br/>
+
+**12/19/24, Day 8**: 4.74mi mentally easy, but according to my watch heartrate, threshold. Probably never going to run through big street areas again, especially during morning traffic since the traffic lights are extremely annoying. The run seemed almost like a weird fartlek with a lot of complete stops. Still don't know whether i should completely stop the watch or just record a lap at each stop to save the pace. Glad to get it done early in the day though. Quads are also relatively sore, I've definitely not been exercising well before this and still getting back into stride.
 
 <br/>
 
