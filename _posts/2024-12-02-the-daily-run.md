@@ -2,11 +2,15 @@
 layout: post
 title:  "The Daily Run"
 date:   2024-12-02
-last_modified_at: 2024-12-20
+last_modified_at: 2024-12-21
 categories: [Running]
 ---
 
 This is the the daily run, which is the start of a larger plan to improve the individual holistically (another post will eventually cover this). My goal with this post is to update it every single day with what I ran, thoughts on the run, and other miscellaneous ideas. Records can be accessed *[here](https://www.strava.com/athletes/117513725)*.
+
+<br/>
+
+**12/21/24, Day 10**: 4.98mi moderate pace. Day 10! Wow, it seems like such a good start but so little at the same time. Also, what better way to have a day ten then to receive some supporting words from a fan (a good friend lol). Ultimately, I write these posts for myself, but if just one other person reads this post and is left with a positive impact, I would be extremely happy and more motivated myself. I ran around the neighborhood and past my high school today, and there were some great renovations to the tennis courts. They look amazing. Great run, and the weather was interesting because there was expected to be rain, but when I ran there were only heavy clouds, and it seemed like the temperature was almost warmer. Not so cold of mornings are always great.
 
 <br/>
 
