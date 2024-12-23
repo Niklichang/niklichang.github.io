@@ -2,11 +2,15 @@
 layout: post
 title:  "The Daily Run"
 date:   2024-12-02
-last_modified_at: 2024-12-21
+last_modified_at: 2024-12-22
 categories: [Running]
 ---
 
 This is the the daily run, which is the start of a larger plan to improve the individual holistically (another post will eventually cover this). My goal with this post is to update it every single day with what I ran, thoughts on the run, and other miscellaneous ideas. Records can be accessed *[here](https://www.strava.com/athletes/117513725)*.
+
+<br/>
+
+**12/22/24, Day 11**: 1.19mi, super gassed. Just played basketball with some friends beforehand, and the run felt like the last mile of a 5k. There is something to say about continuing the streak in ratios; I'm just getting something in no matter how much I don't want to run that day. Hopefully I can keep up this mentality though.
 
 <br/>
 
