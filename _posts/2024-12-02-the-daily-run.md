@@ -10,7 +10,7 @@ This is the the daily run, which is the start of a larger plan to improve the in
 
 <br/>
 
-**12/23/24, Day 12: 1.21mi easy. Almost didn't run today since it was so late in the evening after a big meal. Might start running in the morning again tomorrow. There seems to be a constant conflict between wanting to run in the evenings and the mornings. Running evening into next day morning seems like such a short period in between runs, and sometimes I procrastinate the run into the evening even though I have been on a morning streak, which makes it hard to go back to morning.
+**12/23/24, Day 12**: 1.21mi easy. Almost didn't run today since it was so late in the evening after a big meal. Might start running in the morning again tomorrow. There seems to be a constant conflict between wanting to run in the evenings and the mornings. Running evening into next day morning seems like such a short period in between runs, and sometimes I procrastinate the run into the evening even though I have been on a morning streak, which makes it hard to go back to morning.
 
 I've also looked into a book called *Daniel's Running Formula*, by Jack Daniels. A lot of people say that the book is good for incorporating structure and accurately predicting race day pace, but so far I have just been intrigued about his approach to running. There are so many aspects of running that I seem to overlook, and when applying a science to the training I'm starting to understand the purpose of different aspects of becoming faster. Anyways, I hope to eventually become more knowledgeable on what I can do by myself to improve myself.
 
