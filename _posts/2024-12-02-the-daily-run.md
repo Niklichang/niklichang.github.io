@@ -2,11 +2,15 @@
 layout: post
 title:  "The Daily Run"
 date:   2024-12-02
-last_modified_at: 2024-12-22
+last_modified_at: 2024-12-24
 categories: [Running]
 ---
 
 This is the the daily run, which is the start of a larger plan to improve the individual holistically (another post will eventually cover this). My goal with this post is to update it every single day with what I ran, thoughts on the run, and other miscellaneous ideas. Records can be accessed *[here](https://www.strava.com/athletes/117513725)*.
+
+<br/>
+
+**12/24/24, Day 13**: 3.63mi tempo? Most exciting run so far! Christmas Eve, exploring many small neighborhoods, and just enjoying all the holiday lights in the area. All around one of the best runs you can ask for. I got to go through so many little light arches too. Everytime I saw lights I felt like running faster, and I didn't feel tired. Probably a combination of adrenaline and the fact that I have been taking it easy recently. Go one more ^
 
 <br/>
 
