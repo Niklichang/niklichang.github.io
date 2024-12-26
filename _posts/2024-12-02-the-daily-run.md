@@ -2,11 +2,15 @@
 layout: post
 title:  "The Daily Run"
 date:   2024-12-02
-last_modified_at: 2024-12-24
+last_modified_at: 2024-12-25
 categories: [Running]
 ---
 
 This is the the daily run, which is the start of a larger plan to improve the individual holistically (another post will eventually cover this). My goal with this post is to update it every single day with what I ran, thoughts on the run, and other miscellaneous ideas. Records can be accessed *[here](https://www.strava.com/athletes/117513725)*.
+
+<br/>
+
+**12/25/24, Day 14**: 1.56mi easy. merry christmas. leave me alone
 
 <br/>
 
