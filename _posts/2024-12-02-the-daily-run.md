@@ -10,6 +10,10 @@ This is the the daily run, which is the start of a larger plan to improve the in
 
 <br/>
 
+**12/26/24, Day 15**: 2.22 easy. too rainy today
+
+<br/>
+
 **12/25/24, Day 14**: 1.56mi easy. merry christmas. leave me alone
 
 <br/>
