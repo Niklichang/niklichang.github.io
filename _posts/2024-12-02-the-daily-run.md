@@ -10,7 +10,15 @@ This is the the daily run, which is the start of a larger plan to improve the in
 
 <br/>
 
-**12/26/24, Day 15**: 2.22 easy. too rainy today
+**12/28/24, Day 17**: 2.11mi easy. Either fairly low condition right now or just had a long day outside before I ran. Something seemed to be fatigued, and hopefully it was not just the 4 mile run at 10 minute pace that made me like this. If it is, no worries, I'm just at a worse position than I thought. There's just too much good food at home maybe.
+
+<br/>
+
+**12/27/24, Day 16**: 4.15mi at 10:00/mi pace. forgot to write it down
+
+<br/>
+
+**12/26/24, Day 15**: 2.22mi easy. too rainy today
 
 <br/>
 
