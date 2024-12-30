@@ -2,11 +2,15 @@
 layout: post
 title:  "The Daily Run"
 date:   2024-12-02
-last_modified_at: 2024-12-25
+last_modified_at: 2024-12-29
 categories: [Running]
 ---
 
 This is the the daily run, which is the start of a larger plan to improve the individual holistically (another post will eventually cover this). My goal with this post is to update it every single day with what I ran, thoughts on the run, and other miscellaneous ideas. Records can be accessed *[here](https://www.strava.com/athletes/117513725)*.
+
+<br/>
+
+**12/29/24, Day 18**: 12.02mi at 9:50 pace. Insane to say the least. This run went from an amazing run in the first half to a harrowing experience in the second. It was like turning back at the halfway point was a switch that turned the run from good to bad. Maybe it has to do with the gel I ate at the halfway point. Upset stomach so bad to the point that I had to walk for a bit. Then a certain pain in my knee that seemed unbearable. Safe to say this was not exactly the right decision to go on such a long run at this point. But sitting at home, doing nothing, and also a certain video from Ran to Japan prompted me to do more. Running 1 to 2 miles a day during a break, when I have infinite time, is like a creeping itch working through my conscience. One needs to believe in the hard work the the progress that they can achieve. In the end I just hope that these shocks don't affect my long term running goals, as is usually the case when someone starts something new with too much zeal.
 
 <br/>
 
