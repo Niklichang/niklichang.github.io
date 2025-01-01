@@ -2,11 +2,15 @@
 layout: post
 title:  "The Daily Run"
 date:   2024-12-02
-last_modified_at: 2024-12-29
+last_modified_at: 2024-12-31
 categories: [Running]
 ---
 
-This is the the daily run, which is the start of a larger plan to improve the individual holistically (another post will eventually cover this). My goal with this post is to update it every single day with what I ran, thoughts on the run, and other miscellaneous ideas. Records can be accessed *[here](https://www.strava.com/athletes/117513725)*.
+This is the the daily run, which is the start of a larger plan to improve the individual holistically (another post will eventually cover this). My goal with this post is to update it every single day with what I ran, thoughts on the run, and other miscellaneous ideas. Records can be accessed on strava *[here](https://www.strava.com/athletes/117513725)*.
+
+<br/>
+
+**12/31/24, Day 19**: 1.21mi easy today. There goes my streak again? One thing I believe and am still working on is the idea that breaks and entertainment should be productive. In this way, it is not seen as something bad when you are having fun, or something frivolous. But instead, taking a break is for the purpose of being more efficient in productive areas. The fact that you take some time to relax your mind means that entertainment will help you refocus on more important tasks. In that sense, having fun is part of productivity. With this mindset, I believe one can change the approach to self improvement in any area. Or maybe I'm making excuses for missing a day of running :|
 
 <br/>
 
