@@ -2,11 +2,15 @@
 layout: post
 title:  "The Daily Run"
 date:   2024-12-02
-last_modified_at: 2025-01-01
+last_modified_at: 2025-01-02
 categories: [Running]
 ---
 
 This is the the daily run, which is the start of a larger plan to improve the individual holistically (another post will eventually cover this). My goal with this post is to update it every single day with what I ran, thoughts on the run, and other miscellaneous ideas. Records can be accessed on strava *[here](https://www.strava.com/athletes/117513725)*.
+
+<br/>
+
+**01/02/25, Day 21**: 2.12mi super easy. Garmin says I have been either maintaining or unproductive in running. I don't know how accurate that is but it definitely is demoralizing. Maybe I am running to slow.. 
 
 <br/>
 
