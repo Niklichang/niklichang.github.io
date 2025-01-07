@@ -7,6 +7,19 @@ categories: [Running]
 ---
 
 This is the the daily run, which is the start of a larger plan to improve the individual holistically (another post will eventually cover this). My goal with this post is to update it every single day with what I ran, thoughts on the run, and other miscellaneous ideas. Records can be accessed on strava *[here](https://www.strava.com/athletes/117513725)*.
+
+<br/>
+
+**01/06/25, Day 23**: 3.00mi apparently unproductive, and apparently detraining now... Garmin training status is harsh. I am sad. and bad. A lot of people focus too much on small details. It is easy to be caught up in the numbers of things when in reality you need to spot trends. Instead of constantly looking at your training status day by day, look at the monthly: If there is an upward trend, you are doing something right.
+
+My case seems to be different. Today the run was somewhat physically draining, in the sense that I'm not used to running 3 miles. Yes, I have taken 2 days off my bad (1/2 due to skiing). However, I realize that there is one simple solution, at least kind of. I just need to run more. 
+
+There are two different ways to introduce progressive overload, and therefore, more efficient improvement overall. First is running for longer. The second is running at a higher intensity. It is somewhat obvious that the best indicator of your current performance is what you have been displaying most recently. As such, I have been doing horrible. One 12 mile run, then a bunch of 1-2 milers. Seems pretty telling, huh
+
+Obviously need to put more time/effort into running to improve. However, I have also identified two areas that can only be a detriment to training. First is my lack of mobility. Flexibility has always been one of my worst areas, and any sort of athlete needs it. Second is what seems to be runner's knee. My right knee starts to ache periodically, and more often the longer a distance I run. I believe it is due to an imbalance of muscle; my left leg is relatively stronger due to extensive racket sports. Therefore I believe it is in my best interest to incorporate some pre-run activation exercises, stretching, and strength and conditioning for my knee.
+
+Cya tomorrow (please)
+
 <br/>
 
 **01/03/25, Day 22**: 1.18mi easy. sound familiar?
