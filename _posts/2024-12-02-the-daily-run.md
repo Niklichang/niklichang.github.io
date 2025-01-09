@@ -2,11 +2,15 @@
 layout: post
 title:  "The Daily Run"
 date:   2024-12-02
-last_modified_at: 2025-01-07
+last_modified_at: 2025-01-08
 categories: [Running]
 ---
 
 This is the the daily run, which is the start of a larger plan to improve the individual holistically (another post will eventually cover this). My goal with this post is to update it every single day with what I ran, thoughts on the run, and other miscellaneous ideas. Records can be accessed on strava *[here](https://www.strava.com/athletes/117513725)*.
+
+<br/>
+
+**01/08/25, Day 25**: 1.18mi classic. But the reason is that I am fairly busy at night, so I need to get the run done earlier today. What I didn't expect was the effect the sun has on my running. Usually I run earlier mornings or nights, and I believe at this time the sun shining affects running to a very noticeable amount. Thus my low mileage. What is more crazy is that the temperature seemed to be the same as when I would run at night: Low 50's. However with the sun out it felt so much worse. Note for future runs
 
 <br/>
 
