@@ -2,7 +2,7 @@
 layout: post
 title:  "The Daily Run"
 date:   2024-12-02
-last_modified_at: 2025-01-11
+last_modified_at: 2025-01-12
 categories: [Running]
 ---
 
@@ -10,7 +10,13 @@ This is the the daily run, which is the start of a larger plan to improve the in
 
 <br/>
 
-**01/11/25, Day 27**: 4.23 progression run. First time doing a real training run on the treadmill, and it's not as bad as I thought. As an avid Yaseen follower, I shall enjoy treadmills. A lot of people hate running on a treadmill, but I think it is convenient and a very efficient way to train. I honestly do not get why people say that running on a treadmill is too easy or is not the "same" as outside. It definitely does feel longer than running outside in a sense that I keep checking times and paces and things seem to progress slower. This is probably just a matter of perspective, and as Yaseen says one will get used to it over time. 
+**01/12/25, Day 28**: No run today, but I will still count it as a day in the streak, and here is why. Today I worked out in the gym. I think that it is necessary to do workouts in the gym even as a runner. Today I did all upper body, but I want to definitely focus more on the lower body for strength and conditioning purposes.
+
+That being said, as a "casual" runner I think it takes too long to do both running and gym in one day (at least for now), thus skipping a day of running. I still want to add this day to the streak though because it is part of improving running and becoming a better athlete. 
+
+<br/>
+
+**01/11/25, Day 27**: 4.23mi progression run. First time doing a real training run on the treadmill, and it's not as bad as I thought. As an avid Yaseen follower, I shall enjoy treadmills. A lot of people hate running on a treadmill, but I think it is convenient and a very efficient way to train. I honestly do not get why people say that running on a treadmill is too easy or is not the "same" as outside. It definitely does feel longer than running outside in a sense that I keep checking times and paces and things seem to progress slower. This is probably just a matter of perspective, and as Yaseen says one will get used to it over time. 
 
 <br/>
 
