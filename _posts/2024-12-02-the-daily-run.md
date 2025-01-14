@@ -10,6 +10,14 @@ This is the the daily run, which is the start of a larger plan to improve the in
 
 <br/>
 
+**01/13/25, Day 28**: 3.86mi threshold on treadmill. Very weird run today because it felt so tough. Heartbeat was definitely higher than my previous run, and I ran about the same amount of time but less distance. Very weird but can most likely be explained by two things. First, I ran on different treadmills. The second treadmill was in a gym with a lot more people, so I think the temperature difference is a factor. Second, I actually feel a bit sick right now. When running, I could feel my throat hurt every time I swallowed. Hopefully will be better soon. I also need to buy a pair of running headphones, I think that paired with treadmill will be a great way to get miles in, especially studying abroad. 
+
+Anywas still have DOMS from yesterday's workout which is nice. Something upset my stomach and hopefully it is not the increased amount of protein powder and milk intake recently. 
+
+Good progress overall and although I don't feel noticeable improvement, this is a first step. Also stretching which is goood
+
+<br/>
+
 **01/12/25, Day 28**: No run today, but I will still count it as a day in the streak, and here is why. Today I worked out in the gym. I think that it is necessary to do workouts in the gym even as a runner. Today I did all upper body, but I want to definitely focus more on the lower body for strength and conditioning purposes.
 
 That being said, as a "casual" runner I think it takes too long to do both running and gym in one day (at least for now), thus skipping a day of running. I still want to add this day to the streak though because it is part of improving running and becoming a better athlete. 
