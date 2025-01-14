@@ -2,15 +2,17 @@
 layout: post
 title:  "The Daily Run"
 date:   2024-12-02
-last_modified_at: 2025-01-12
+last_modified_at: 2025-01-13
 categories: [Running]
 ---
 
 This is the the daily run, which is the start of a larger plan to improve the individual holistically (another post will eventually cover this). My goal with this post is to update it every single day with what I ran, thoughts on the run, and other miscellaneous ideas. Records can be accessed on strava *[here](https://www.strava.com/athletes/117513725)*.
 
+*Update on 01/13/25:* This page will most likely be changed to a 6 days run and 1 day strength workout per week (no longer a "daily" run), but the intent is still the same. Run faster, get fitter, build habits.
+
 <br/>
 
-**01/13/25, Day 28**: 3.86mi threshold on treadmill. Very weird run today because it felt so tough. Heartbeat was definitely higher than my previous run, and I ran about the same amount of time but less distance. Very weird but can most likely be explained by two things. First, I ran on different treadmills. The second treadmill was in a gym with a lot more people, so I think the temperature difference is a factor. Second, I actually feel a bit sick right now. When running, I could feel my throat hurt every time I swallowed. Hopefully will be better soon. I also need to buy a pair of running headphones, I think that paired with treadmill will be a great way to get miles in, especially studying abroad. 
+**01/13/25, Day 29**: 3.86mi threshold on treadmill. Very weird run today because it felt so tough. Heartbeat was definitely higher than my previous run, and I ran about the same amount of time but less distance. Very weird but can most likely be explained by two things. First, I ran on different treadmills. The second treadmill was in a gym with a lot more people, so I think the temperature difference is a factor. Second, I actually feel a bit sick right now. When running, I could feel my throat hurt every time I swallowed. Hopefully will be better soon. I also need to buy a pair of running headphones, I think that paired with treadmill will be a great way to get miles in, especially studying abroad. 
 
 Anywas still have DOMS from yesterday's workout which is nice. Something upset my stomach and hopefully it is not the increased amount of protein powder and milk intake recently. 
 
