@@ -2,13 +2,17 @@
 layout: post
 title:  "The Daily Run"
 date:   2024-12-02
-last_modified_at: 2025-01-13
+last_modified_at: 2025-01-14
 categories: [Running]
 ---
 
 This is the the daily run, which is the start of a larger plan to improve the individual holistically (another post will eventually cover this). My goal with this post is to update it every single day with what I ran, thoughts on the run, and other miscellaneous ideas. Records can be accessed on strava *[here](https://www.strava.com/athletes/117513725)*.
 
 *Update on 01/13/25:* This page will most likely be changed to a 6 days run and 1 day strength workout per week (no longer a "daily" run), but the intent is still the same. Run faster, get fitter, build habits.
+
+**01/14/25, Day 30**: 2.32mi easy road/treadmill. Very dissapointing day to say the least. So I have been working on treadmill lately mainly to the efficiency of the gym as well as the environment for both prerun warmup and postrun stretching. However, since running on a treadmill provides no draft against the air, my long hair ends up bobbing in front of my face instead of flowing behind like on a normal run. Naturally, I forgot to bring my hat to the gym, so I ran back to my apartment in hopes of grabbing my hat and coming back to the treadmill. Low and behold I forgot my keys while on my way back to my apartment. Not wanting to mess up further, I just turned around and headed back to the gym to complete my run no matter my hair status. 2.32 miles in, and there arises a very acute stabbing pain on the back right of my right knee, near the hamstring. At that point I just stopped running. I know my body and my pains. Some say that pains that are familiar are good since you know what they are. This was definitely something new, so I just had to stop running. I wouldn't say I'm extremely surprised; I have expressed worry over my right knee. Hopefully this is not a persistent problem.
+
+After getting off the treadmill I decided to do some strength and conditioning work to finish off my workout. You might say, why would I work out my knee when it is in pain? The pain was like a stabbing sort of pain on impact with the ground. Working on leg strengthening exercises will not put that sort of sudden impact on the joints and tendons so I deemed it ok. Overall horrible workout today but we will bounce back tomorrow. hopefully.
 
 <br/>
 
