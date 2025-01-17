@@ -2,13 +2,19 @@
 layout: post
 title:  "The Daily Run"
 date:   2024-12-02
-last_modified_at: 2025-01-15
+last_modified_at: 2025-01-16
 categories: [Running]
 ---
 
 This is the the daily run, which is the start of a larger plan to improve the individual holistically (another post will eventually cover this). My goal with this post is to update it every single day with what I ran, thoughts on the run, and other miscellaneous ideas. Records can be accessed on strava *[here](https://www.strava.com/athletes/117513725)*.
 
 *Update on 01/13/25:* This page will most likely be changed to a 6 days run and 1 day strength workout per week (no longer a "daily" run), but the intent is still the same. Run faster, get fitter, build habits.
+
+<br/>
+
+**01/16/25, Day 32**: 4.32mi threshold? I don't know, it seems like the treadmill times are a lot slower than the time recorded on my watch, and I don't know how to update it. I went around what the treadmill said to be 10:30 to 10:10 pace, however, my watch is saying 9:18/mi. I don't know if this is cheating or what.
+
+Anyways today it felt as if my knee was about to flare up, but then it subsided and I felt fine the rest of the run. Excited to see what I run out in a new environment (secret) the upcoming days.
 
 <br/>
 
