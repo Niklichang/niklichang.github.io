@@ -2,13 +2,19 @@
 layout: post
 title:  "The Daily Run"
 date:   2024-12-02
-last_modified_at: 2025-01-17
+last_modified_at: 2025-01-18
 categories: [Running]
 ---
 
 This is the the daily run, which is the start of a larger plan to improve the individual holistically (another post will eventually cover this). My goal with this post is to update it every single day with what I ran, thoughts on the run, and other miscellaneous ideas. Records can be accessed on strava *[here](https://www.strava.com/athletes/117513725)*.
 
 *Update on 01/13/25:* This page will most likely be changed to a 6 days run and 1 day strength workout per week (no longer a "daily" run), but the intent is still the same. Run faster, get fitter, build habits.
+
+<br/>
+
+**01/18/25, Day 34**: 2.04mi hills. Early run today because no one is up yet. This has definitely been the slowest run I have ever done. 14.55/mi is almost walking honestly. Also, I could not actually run up the hill for a mile straight. I had to stop near 0.8 miles because there was a little ache that started on the back left of my right foot which I probably attribute to a lack of ankle strength for running up hill. 
+
+I recently watched a video on the Western States 100 and was confused on why they were running so slow. Trail runners are truly built different.
 
 <br/>
 
