@@ -2,13 +2,21 @@
 layout: post
 title:  "The Daily Run"
 date:   2024-12-02
-last_modified_at: 2025-01-16
+last_modified_at: 2025-01-17
 categories: [Running]
 ---
 
 This is the the daily run, which is the start of a larger plan to improve the individual holistically (another post will eventually cover this). My goal with this post is to update it every single day with what I ran, thoughts on the run, and other miscellaneous ideas. Records can be accessed on strava *[here](https://www.strava.com/athletes/117513725)*.
 
 *Update on 01/13/25:* This page will most likely be changed to a 6 days run and 1 day strength workout per week (no longer a "daily" run), but the intent is still the same. Run faster, get fitter, build habits.
+
+<br/>
+
+**01/17/25, Day 33**: 1.25 hills. Felt extremely tiring on the way up, which is expected.
+
+Also expected, but somewhat surprising, was how hard it was for me to actually run up here. Got some people on the retreat acting like my mom (im mad). The run tomorrow will probably better due to the light.
+
+Short run today. Running this steep of hills in the dark is not safe, especially when the ground is extremely uneven. Also got lost twice on the run and ran into a rv van with what I swear was a man breathing inside. Overall a great experience because new experiences are always nice. Hearing dogs howl in the night is both a surreal and scary experience. Honestly felt like urbexing; you are always on your toes and looking around you for signs of movement. Maybe it makes me weird that I find excitement in the fact that there could be an animal waiting to attack me. But makes for a great experience. Looking forward for tomorrow morning when it is light. 
 
 <br/>
 
