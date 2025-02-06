@@ -2,7 +2,7 @@
 layout: post
 title:  "The Daily Run"
 date:   2024-12-02
-last_modified_at: 2025-01-18
+last_modified_at: 2025-02-06
 categories: [Running]
 ---
 
@@ -12,11 +12,11 @@ This is the the daily run, which is the start of a larger plan to improve the in
 
 <br/>
 
-**Number of Days Missed** (Not including excused breaks): 4
+**02/06/25, Day 36**: 4.20mi easy. Wrote the previous run just now for reference. Things are a lot different out here in China, and it really tests my drive to continue running, which so far I have failed miserably at. Not much else that I want to say on the matter but I have lost a lot of fitness, and once I reach Beijing things will stabilize. Going to have to remove the "Number of Days Missed" section, RIP. I feel that I made it at a time where I knew that my streak was slipping away (leaving for China). Also, I feel like it is an unhealthy way to approach trying to run more, as touched upon in a previous post about building habits. See you sometime soon.
 
 <br/>
 
-test
+**01/27/25, Day 35**: 3.44mi easy. 
 
 <br/>
 
