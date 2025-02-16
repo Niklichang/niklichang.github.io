@@ -10,6 +10,12 @@ This is the the daily run, which is the start of a larger plan to improve the in
 
 *Update on 01/13/25:* This page will most likely be changed to a 6 days run and 1 day strength workout per week (no longer a "daily" run), but the intent is still the same. Run faster, get fitter, build habits.
 
+**02/16/25, Day 37**: 1.31mi easy. Finally back. Will still have to settle in for a bit before this can become a consistent, everyday thing again due to classes and adjusting to China. 北大 is great. Cool friends, nice campus, and I finally got to go to the gyms and see the ping pong places. Hopefully that will work out. Basically a lot better emotionally and hopefully physically soon.
+
+In terms of the run, I feel like the Garmin is miscalculating it. In San Diego, I thought it was a bit off. In Chengdu, I disregarded the one time run due to a run-down treadmill. Finally, in Beijing, now that I have tested one of the new treadmills I will be most of the time, it still seems off. The treadmill said 2.52km, which is 1.57 miles. Pretty inaccurate. Will probably have to recalibrate my watch. 
+
+New update: I'm not going to put it at the top since traveling abroad is temporary, but while I am here I will probably treat this as somewhat of a blog if I am feeling up to it. It would be fun, and I think it is best that this place is pure, unadulterated thoughts in contrast to my other posts where I go back and edit stuff.
+
 <br/>
 
 **02/06/25, Day 36**: 4.20mi easy. Wrote the previous run just now for reference. Things are a lot different out here in China, and it really tests my drive to continue running, which so far I have failed miserably at. Not much else that I want to say on the matter but I have lost a lot of fitness, and once I reach Beijing things will stabilize. Going to have to remove the "Number of Days Missed" section, RIP. I feel that I made it at a time where I knew that my streak was slipping away (leaving for China). Also, I feel like it is an unhealthy way to approach trying to run more, as touched upon in a previous post about building habits. See you sometime soon.
