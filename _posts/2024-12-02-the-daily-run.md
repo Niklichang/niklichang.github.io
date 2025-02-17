@@ -2,13 +2,21 @@
 layout: post
 title:  "The Daily Run"
 date:   2024-12-02
-last_modified_at: 2025-02-06
+last_modified_at: 2025-02-17
 categories: [Running]
 ---
 
 This is the the daily run, which is the start of a larger plan to improve the individual holistically (another post will eventually cover this). My goal with this post is to update it every single day with what I ran, thoughts on the run, and other miscellaneous ideas. Records can be accessed on strava *[here](https://www.strava.com/athletes/117513725)*.
 
 *Update on 01/13/25:* This page will most likely be changed to a 6 days run and 1 day strength workout per week (no longer a "daily" run), but the intent is still the same. Run faster, get fitter, build habits.
+
+<br/>
+
+**02/17/25, Day 38**: 2.53mi easy. Everything just easy... for now. Having wifi in the gym is nice; I can watch anything I want on my phone while running. I have finally found a nice place with all good facilities, but still need to figure out the watch distance delta. 5.01km = 3.11mi, so why 2.53? Compared to last time, .813 vs .834 proportional difference, which is somewhat consistent.
+
+Just looked it up and apparently there is a "Save & Calibrate" option to manually save after every run. Going to try that out tomorrow.
+
+<br/>
 
 **02/16/25, Day 37**: 1.31mi easy. Finally back. Will still have to settle in for a bit before this can become a consistent, everyday thing again due to classes and adjusting to China. 北大 is great. Cool friends, nice campus, and I finally got to go to the gyms and see the ping pong places. Hopefully that will work out. Basically a lot better emotionally and hopefully physically soon.
 
