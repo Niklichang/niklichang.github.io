@@ -12,6 +12,12 @@ This is the the daily run, which is the start of a larger plan to improve the in
 
 <br/>
 
+**02/18/25, Day 39**: 3.78mi easy. Need to settle in and build some base/injury resistance. I accidentally reset the treadmill, so I did not do the save & calibrate feature this time, but tomorrow I will for sure. I have been focusing a lot on stretching both before and after the run for mobility and injury prevention as well. Feels very refreshing. 
+
+Classes are somewhat of a mess right now. I came here to learn Chinese, but I realized that I can't take a class taught in Chinese. Today I just came out of a Chinese taught class without knowing a single idea explained in that class. However, hopes are there are extra classes released by the School of Chinese as a Second Language in which I can enroll in soon. Otherwise the entire learning process is on me, yet again. I find that over here it is still extremely easy to fall into a complacent lifestyle, surrounded by international students and taking classes taught in English, having little time for language learning. Working on that.
+
+<br/>
+
 **02/17/25, Day 38**: 2.53mi easy. Everything just easy... for now. Having wifi in the gym is nice; I can watch anything I want on my phone while running. I have finally found a nice place with all good facilities, but still need to figure out the watch distance delta. 5.01km = 3.11mi, so why 2.53? Compared to last time, .813 vs .834 proportional difference, which is somewhat consistent.
 
 Just looked it up and apparently there is a "Save & Calibrate" option to manually save after every run. Going to try that out tomorrow.
