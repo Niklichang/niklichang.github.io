@@ -12,6 +12,14 @@ This is the the daily run, which is the start of a larger plan to improve the in
 
 <br/>
 
+**02/19/25, Day 40**: 4.13mi easier. Tried to monitor heartrate, but I slowly realized that my heartrate was climbing even though I was going at such a slow pace. Such is running at the early stages. Anyways, tried to keep heartrate low, then ended with some hill sprints. I find ending the run with strides or short hill sprints on the treadmill is great because running for long periods at a very specific pace lacks the variation that you find by running outside.
+
+I am also stretching a lot more. I realized that one thing that I actually want to make headway in is flexibility, and it is something that will take a while to achieve. It makes sense that to actually enlongate the tendon/muscle, basic changes have to happen in a slow but steady process. 
+
+I also want to read more into structuring a running training plan. Anyyone can go online and see what the 2:05 marathon athlete is doing for his training in a day, but actual understanding and insight in building your own plan is a lot more complex. 
+
+<br/>
+
 **02/18/25, Day 39**: 3.78mi easy. Need to settle in and build some base/injury resistance. I accidentally reset the treadmill, so I did not do the save & calibrate feature this time, but tomorrow I will for sure. I have been focusing a lot on stretching both before and after the run for mobility and injury prevention as well. Feels very refreshing. 
 
 Classes are somewhat of a mess right now. I came here to learn Chinese, but I realized that I can't take a class taught in Chinese. Today I just came out of a Chinese taught class without knowing a single idea explained in that class. However, hopes are there are extra classes released by the School of Chinese as a Second Language in which I can enroll in soon. Otherwise the entire learning process is on me, yet again. I find that over here it is still extremely easy to fall into a complacent lifestyle, surrounded by international students and taking classes taught in English, having little time for language learning. Working on that.
