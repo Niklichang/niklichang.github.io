@@ -12,6 +12,14 @@ This is the the daily run, which is the start of a larger plan to improve the in
 
 <br/>
 
+**01/20/25, Day 41**: 4.14mi easy. Definitely easy this time. After a harder day yesterday, I really wanted to tone it down, especially to emphasize the idea of easier and hard days as I transition into a more systematic approach to training. Also, I had a little feeling of inflammation on the outer part of my left knee. Felt better after running more today, but obviously a good idea to take it easy. 
+
+Got to remind myself of the slow and steady pace of stretching. I have never held a habit of stretching because it is somewhat tought to record incremental progress; there are only big milestones that you realize after you achieve it. I try to convince myself that everyday I'm getting more flexible, but I can't see the difference between one day and the next. That's why building the habit is so important!
+
+Went to probably one of the coolest classes today. A research seminar course with a semester long research project culminating in a student poster session involving various faculty. No one can hope for better in terms of talking to professors. Looking forward to that class but not all the other work from other classes.
+
+<br/>
+
 **02/19/25, Day 40**: 4.13mi easier. Tried to monitor heartrate, but I slowly realized that my heartrate was climbing even though I was going at such a slow pace. Such is running at the early stages. Anyways, tried to keep heartrate low, then ended with some hill sprints. I find ending the run with strides or short hill sprints on the treadmill is great because running for long periods at a very specific pace lacks the variation that you find by running outside.
 
 I am also stretching a lot more. I realized that one thing that I actually want to make headway in is flexibility, and it is something that will take a while to achieve. It makes sense that to actually enlongate the tendon/muscle, basic changes have to happen in a slow but steady process. 
