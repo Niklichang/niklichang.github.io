@@ -2,7 +2,7 @@
 layout: post
 title:  "The Daily Run"
 date:   2024-12-02
-last_modified_at: 2025-02-17
+last_modified_at: 2025-02-21
 categories: [Running]
 ---
 
@@ -12,7 +12,19 @@ This is the the daily run, which is the start of a larger plan to improve the in
 
 <br/>
 
-**01/20/25, Day 41**: 4.14mi easy. Definitely easy this time. After a harder day yesterday, I really wanted to tone it down, especially to emphasize the idea of easier and hard days as I transition into a more systematic approach to training. Also, I had a little feeling of inflammation on the outer part of my left knee. Felt better after running more today, but obviously a good idea to take it easy. 
+**02/23/25, Day 43**: Small workout today. Got food poisoning on 2/21, so yesterday didn't do anything. Only did bench and tri today, just realized how bad the gym is apart from the treadmills. 
+
+Crazy how Haidilao can give food poisoning, but at this point I shouldn't have any expectations about China. What also confuses me is that I was the only one who got food poisoning out of the group of 5. Must have just been a singular piece of something bad. Feeling a lot better today but yesterday was a mess. Hopefully I can get back to running by 2/25, but tomorrow seems like a bit of a stretch. 
+
+<br/>
+
+**02/21/25, Day 42**: 4.60mi easy with strides. 100th activity on Strava, that's nice! When I watch a good video, time just flies by while running. Today I finished up Moonchannel's video on why you always kill gods in JRPGs. I love his channel because it is a history channel disguised through the process of explaning the manifestations history has through modern culture and society. Pretty awkward way to explain it, but I feel so much more knowledgeable about why society in South Korea and Japan are functioning today through such an engaging and informational medium.
+
+One collegiate runner and part time youtuber I watch, Yaseen Abdalla, really inspired me to do this. I was watching his vlogs leading up to the Paris Olympics, and I loved his treadmill he had in his house. He explained a little about the stigma around training on a treadmill as well as how he loved to watch TV shows while doing his easy runs. While I love TV shows, with no real way to watch it in China without paying, I am shifting mine to more constructive media. I hope to transition into listening to audiobooks as well as watching Chinese content to increase my Chinese input further.
+
+<br/>
+
+**02/20/25, Day 41**: 4.14mi easy. Definitely easy this time. After a harder day yesterday, I really wanted to tone it down, especially to emphasize the idea of easier and hard days as I transition into a more systematic approach to training. Also, I had a little feeling of inflammation on the outer part of my left knee. Felt better after running more today, but obviously a good idea to take it easy. 
 
 Got to remind myself of the slow and steady pace of stretching. I have never held a habit of stretching because it is somewhat tought to record incremental progress; there are only big milestones that you realize after you achieve it. I try to convince myself that everyday I'm getting more flexible, but I can't see the difference between one day and the next. That's why building the habit is so important!
 
