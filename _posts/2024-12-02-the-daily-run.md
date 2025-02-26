@@ -2,13 +2,23 @@
 layout: post
 title:  "The Daily Run"
 date:   2024-12-02
-last_modified_at: 2025-02-21
+last_modified_at: 2025-02-26
 categories: [Running]
 ---
 
 This is the the daily run, which is the start of a larger plan to improve the individual holistically (another post will eventually cover this). My goal with this post is to update it every single day with what I ran, thoughts on the run, and other miscellaneous ideas. Records can be accessed on strava *[here](https://www.strava.com/athletes/117513725)*.
 
 *Update on 01/13/25:* This page will most likely be changed to a 6 days run and 1 day strength workout per week (no longer a "daily" run), but the intent is still the same. Run faster, get fitter, build habits.
+
+<br/>
+
+**02/26/25, Day 45**: 3.51mi easy. Almost skipped out today. After yesterday's workout I went to a boxing free trial lesson which was surprisingly exhausting. In hindsight it makes sense though. Today the strava got even more messed up. On a basic level it was the same mistake; basically I entered the kilometers into the manual input for miles. However, this time for some reason the garmin was recording in kilometers during the run. When I went to do the manual input, the only difference between the garmin time and my time seemed to be 500m. Yet, when I inputted it all the tracking software changed it to miles. As such I just took this run off my strava since I was getting PB's on a couple distances. Hopefully by tommorow I can figure out the solution.
+
+Sometimes I feel no motivation to get up and run. Today I gave in, but later in the day found motivation to complete the run. This is definitely not sustainable for the future, especially as classes get more hectic and I have other priorities that I will need to attend to (more on this later).
+
+<br/>
+
+**02/25/25, Day 44**: 3.84mi easy. Felt super good back from recovery. Still have a little ankle niggle that I will need to pay attention to again, but it is something I've seen before so not surprising. Accidentally put like 6.18 miles on my strava since the input in garmin is miles for the treadmill calibration, and the run was 6.18km, so I made a mistake and cannot change it. No worries though, it just seems like I ran 6.18 miles at 6:34 or something pace oops.
 
 <br/>
 
