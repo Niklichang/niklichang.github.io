@@ -10,9 +10,29 @@ This is the the daily run, which is the start of a larger plan to improve the in
 
 *Update on 01/13/25:* This page will most likely be changed to a 6 days run and 1 day strength workout per week (no longer a "daily" run), but the intent is still the same. Run faster, get fitter, build habits.
 
+*Consecutive days counter:* 2
+
 <br/>
 
-**02/26/25, Day 45**: 3.51mi easy. Almost skipped out today. After yesterday's workout I went to a boxing free trial lesson which was surprisingly exhausting. In hindsight it makes sense though. Today the strava got even more messed up. On a basic level it was the same mistake; basically I entered the kilometers into the manual input for miles. However, this time for some reason the garmin was recording in kilometers during the run. When I went to do the manual input, the only difference between the garmin time and my time seemed to be 500m. Yet, when I inputted it all the tracking software changed it to miles. As such I just took this run off my strava since I was getting PB's on a couple distances. Hopefully by tommorow I can figure out the solution.
+**03/04/25, Day 48**: 4.38mi easy. Chill day today. I was basically very careful on my right knee since yesterday I felt it pinch a little bit while squatting. After that I immediately stopped squatting and tested out my knee. Today it is still going good, seems like I stopped before anything bad actually happened. Next time I need to be more careful going into an exercise too quickly, especially if I have previous experience and believe I can do more than current me's strength. 
+
+Watch seems to be fixed which is nice. Need to make sure to enter statute units from now on. 
+
+<br/>
+
+**03/03/25, Day 47**: 4.41mi easy. Garmin watch is still messed up even though I tried resetting the recording units on both my watch and my app. Maybe this has to do with the lap recording, I heard somewhere mention that. But it suddenly just changed to recording kilometers which is very odd. I also added a consecutive days counter, which I think I mentioned before that I didn't want to add. I'm just going to try it out for now. 
+
+I was going to implement a long run into my weekly workout, but Sunday ended up being an entire day outing. However, yesterday I was able to buy a new pair of running shoes! I got the Adidas adizero evo sl, which is a good daily trainer/tempo running shoe. It will be a good shoe for a 2 shoe rotation with my previous Saucony guide. 
+
+Also did a little leg/ab workout today. 
+
+<br/>
+
+**03/01/25, Day 46**: 5.03mi easy. Or so I believe. The Garmin is having the glitch again where it tracks the run in kilometers, but once the activity is saved the Garmin app shows the same numerical value but in miles. Today it put around 8 miles instead of 8 kilometers, so I had to delete today's Strava again. A solution is to maybe go to the app and change the measurement units to metric and then back to statute. Hopefully this will work; I will see tomorrow.
+
+<br/>
+
+**02/26/25, Day 45**: 3.51mi easy. Almost skipped out today. After yesterday's workout I went to a boxing free trial lesson which was surprisingly exhausting. In hindsight it makes sense though. Today the strava got even more messed up. On a basic level it was the same mistake; basically I entered the kilometers into the manual input for miles. However, this time for some reason the garmin was recording in kilometers during the run. When I went to do the manual input, the only difference between the garmin time and my time seemed to be 500m. Yet, when I inputted it all the tracking software changed it to miles. As such I just took this run off my strava since I was getting PB's on a couple distances. Hopefully by tomorrow I can figure out the solution.
 
 Sometimes I feel no motivation to get up and run. Today I gave in, but later in the day found motivation to complete the run. This is definitely not sustainable for the future, especially as classes get more hectic and I have other priorities that I will need to attend to (more on this later).
 
