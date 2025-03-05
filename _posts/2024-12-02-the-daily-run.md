@@ -2,7 +2,7 @@
 layout: post
 title:  "The Daily Run"
 date:   2024-12-02
-last_modified_at: 2025-02-26
+last_modified_at: 2025-03-05
 categories: [Running]
 ---
 
@@ -10,7 +10,13 @@ This is the the daily run, which is the start of a larger plan to improve the in
 
 *Update on 01/13/25:* This page will most likely be changed to a 6 days run and 1 day strength workout per week (no longer a "daily" run), but the intent is still the same. Run faster, get fitter, build habits.
 
-*Consecutive days counter:* 2
+*Consecutive days counter:* 3
+
+<br/>
+
+**03/05/25, Day 49**: 5.60mi threshold workout? Or tempo, don't really know the exact name. This is based on heartrate though, and my watch said that I was at threshold level which I assume is LT1. A pretty good workout today fueled by lingering anxiety over a girl...
+
+I also happened to meet Ding Ning, a multiple time table tennis world champion. Crazy that I saw that she went to Peking University after retiring, but I didn't know she stayed to teach. Really awesome moment. 
 
 <br/>
 
