@@ -2,7 +2,7 @@
 layout: post
 title:  "The Daily Run"
 date:   2024-12-02
-last_modified_at: 2025-03-05
+last_modified_at: 2025-03-07
 categories: [Running]
 ---
 
@@ -10,7 +10,15 @@ This is the the daily run, which is the start of a larger plan to improve the in
 
 *Update on 01/13/25:* This page will most likely be changed to a 6 days run and 1 day strength workout per week (no longer a "daily" run), but the intent is still the same. Run faster, get fitter, build habits.
 
-*Consecutive days counter:* 3
+*Consecutive days counter:* 1
+
+<br/>
+
+**03/07/25, Day 50**: 4.75mi easy. New shoes are feeling a lot better today. I think it's finally been broken in. Stretching is still progressing slowly, but I think I see progress. I have been trying out the one leg good mornings/elephant walk hamstring warmups, which are known for the "nerve flossing" for better stretching. I'm now also looking into a marathon that is in mid-April, and sign-ups start next week. I have some time to think if I really want to commit to something that big. I'm the type of person who wants to do something thoroughly if I commit to it. Sometimes this is a bad thing, as it prevents me from just starting outright. Sometimes starting is 50 percent of the job.
+
+My watch has finally calibrated to the point where I see consistency across runs. Glad that is over with.
+
+Tonight I'm heading out to go ski in Hebei, so I don't really know what the plan is for runnning. I am also fairly scared about my right knee especially after the scare I had a couple days ago doing squats. Definitely going to focus on taking it easy on the slopes and being mindful.
 
 <br/>
 
