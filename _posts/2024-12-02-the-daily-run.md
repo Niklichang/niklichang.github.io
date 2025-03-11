@@ -14,6 +14,20 @@ This is the the daily run, which is the start of a larger plan to improve the in
 
 <br/>
 
+**03/11/25, Day 51**: 5.22mi with 2x5min threshold at around 8:30-8:40/mi. Feeling good about my "first" workout. Probably should do longer periods for threshold since it was very slow. However, my heartrate didn't really return to the previous level after which is interesting. 
+
+It just seems like I am doing random runs and workouts based on hearsay or whatever I want. This is probably fine for now because of how bad I am at running at the moment, but I need to find a systematic approach to building my running plan. I am starting to read a book on marathons called Advanced Marathoning by Pete Pfitzinger. So far I like the approach a lot more than Daniel's book, but maybe that is just because of the format on the pdf book. Sometimes I wish I have the physical book; I feel like it is so much better for learning purposes to have a book that I can actually mark and take notes from more efficiently. 
+
+I am thinking of signing up for a half marathon starting next month. Registration opens up tomorrow, and some of my friends say I definitely should do it. However, I am worried about a couple things. First of all, I am worried about the air quality in Beijing. I won't be able to predict how bad the air quality is on race day, but it will most likely be over 100. However, this is only a single race and I don't think it will be too bad, especially since all of my training so far has been indoors. Second, I also have this perturbed idea of secretly improving and not racing/meeting others to improve my running. This idea of not racing until I have improved to an unreachable level is definitely not the most efficient way to improve, and it's a boring way as well. Part of the reason for why I feel like I am not consistent enough is that I lack the community or running friends to keep me accountable. But at the same time, I also have the feeling that if I can't personally keep myself accountable, am I really invested? Do I have the mental sharpness to build a single contructive habit? 
+
+Tough things to think about, but at the end of the day, one just needs to stop thinking as much and get things done. That's what any of us should do, especially in during modern times.
+
+<br/>
+
+**03/09/25, Day 50.5**: Ski weekend. Pretty fun. I was jumping on some hills, but it was probably just a few centimeters max. Anyways I'm glad I didn't get injured, and I also did a black diamond labeled route. Snow here is definitely a lot different than what I am used to. Completely groomed runs, very icy. Could be because it is March already, but I don't know. 
+
+<br/>
+
 **03/07/25, Day 50**: 4.75mi easy. New shoes are feeling a lot better today. I think it's finally been broken in. Stretching is still progressing slowly, but I think I see progress. I have been trying out the one leg good mornings/elephant walk hamstring warmups, which are known for the "nerve flossing" for better stretching. I'm now also looking into a marathon that is in mid-April, and sign-ups start next week. I have some time to think if I really want to commit to something that big. I'm the type of person who wants to do something thoroughly if I commit to it. Sometimes this is a bad thing, as it prevents me from just starting outright. Sometimes starting is 50 percent of the job.
 
 My watch has finally calibrated to the point where I see consistency across runs. Glad that is over with.
