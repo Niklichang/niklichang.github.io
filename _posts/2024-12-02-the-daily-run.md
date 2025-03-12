@@ -2,7 +2,7 @@
 layout: post
 title:  "The Daily Run"
 date:   2024-12-02
-last_modified_at: 2025-03-07
+last_modified_at: 2025-03-12
 categories: [Running]
 ---
 
@@ -10,7 +10,15 @@ This is the the daily run, which is the start of a larger plan to improve the in
 
 *Update on 01/13/25:* This page will most likely be changed to a 6 days run and 1 day strength workout per week (no longer a "daily" run), but the intent is still the same. Run faster, get fitter, build habits.
 
-*Consecutive days counter:* 1
+*Consecutive days counter:* 2
+
+<br/>
+
+**03/12/25, Day 52**: 4.32mi easy with 2 strides. Felt like my heartrate was abnormally high today for the pace. That's fine, maybe it is just recovery from the shock of yesterday's workout. It could also be a variety of other factors such as bad sleep, the alcohol I drank last night, etc. 
+
+Thinking about doing intervals tomorrow. A lot of factors have to go right, including the air quality as well as me finishing my homework. Most likely shouldn't though. Shouldn't add too much intensity at too fast of a rate. 
+
+I just realized that the half marathon was from last year (2024) and there isn't actually one this year. I'm just wondering if I should sign up for another race; it seems that my commitment to training will increase if so. 
 
 <br/>
 
