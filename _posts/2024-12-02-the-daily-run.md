@@ -2,7 +2,7 @@
 layout: post
 title:  "The Daily Run"
 date:   2024-12-02
-last_modified_at: 2025-03-12
+last_modified_at: 2025-03-13
 categories: [Running]
 ---
 
@@ -10,7 +10,13 @@ This is the the daily run, which is the start of a larger plan to improve the in
 
 *Update on 01/13/25:* This page will most likely be changed to a 6 days run and 1 day strength workout per week (no longer a "daily" run), but the intent is still the same. Run faster, get fitter, build habits.
 
-*Consecutive days counter:* 2
+*Consecutive days counter:* 3
+
+<br/>
+
+**03/13/25, Day 53**: 5.86mi, 5x4min at 8:30/mil threshold with 20 min warmup and 10 min cooldown. Wow these posts are finally looking like a running plan. I'm planning to do a 5k time trial as soon as there is a clear day outside; Right now the AQI forecast is not looking good until Monday. This worries me because I want to get in a long run, which is probably Sunday, and I don't want to be exhausted on the day of the time trial. Can't move the long run to Saturday most likely as well because of plans to go to Universal Studios or Zhangjiakou. We shall see.
+
+In terms of the workout today, definitely not my best effort, but we are taking it easy today. 6:30/mi pace on the treadmill seems so fast that I couldn't keep up at all. That is also why I want to go out on the track and time some runs. Anyways, that's it for future plans. 
 
 <br/>
 
