@@ -2,7 +2,7 @@
 layout: post
 title:  "The Daily Run"
 date:   2024-12-02
-last_modified_at: 2025-03-13
+last_modified_at: 2025-03-14
 categories: [Running]
 ---
 
@@ -10,9 +10,13 @@ This is the the daily run, which is the start of a larger plan to improve the in
 
 *Update on 01/13/25:* This page will most likely be changed to a 6 days run and 1 day strength workout per week (no longer a "daily" run), but the intent is still the same. Run faster, get fitter, build habits.
 
-*Consecutive days counter:* 3
+*Consecutive days counter:* 4
 
 <br/>
+
+**03/14/25, Day 54**: 4.39mi easy. I am on my fourth consecutive day! Doing good this week, especially around all the homework and other stuff. However, this might end tomorrow due to club tonight into Universal Studios early tomorrow morning. We shall see if I can squeeze a run tomorrow evening. 
+
+Today did not really go as expected. Just an easy run at around and less than 9:30/mi pace. My heartrate started at 150 and climbed up to 160, which made me really worried. Not a good look for such a slow pace for me. There could be many things wrong, like I have said previously, but right now I will just get good rest, eat good food, and go easy on the runs until the long runnnnnnn
 
 **03/13/25, Day 53**: 5.86mi, 5x4min at 8:30/mil threshold with 20 min warmup and 10 min cooldown. Wow these posts are finally looking like a running plan. I'm planning to do a 5k time trial as soon as there is a clear day outside; Right now the AQI forecast is not looking good until Monday. This worries me because I want to get in a long run, which is probably Sunday, and I don't want to be exhausted on the day of the time trial. Can't move the long run to Saturday most likely as well because of plans to go to Universal Studios or Zhangjiakou. We shall see.
 
