@@ -2,7 +2,7 @@
 layout: post
 title:  "The Daily Run"
 date:   2024-12-02
-last_modified_at: 2025-03-14
+last_modified_at: 2025-03-16
 categories: [Running]
 ---
 
@@ -10,7 +10,15 @@ This is the the daily run, which is the start of a larger plan to improve the in
 
 *Update on 01/13/25:* This page will most likely be changed to a 6 days run and 1 day strength workout per week (no longer a "daily" run), but the intent is still the same. Run faster, get fitter, build habits.
 
-*Consecutive days counter:* 4
+*Consecutive days counter:* 1
+
+<br/>
+
+**03/16/25, Day 55**: 8.50mi long run. As expected, I had to skip yesterday due to too long of activities. In the end, I think it's a good thing. Running should definitely not stop me from having some fun, at least in this stage of my running. I also got a lot of walking in yesterday at Universal Studios Beijing. Also, a single day break is pretty good right now to prevent overtraining.
+
+Overall very good first long run. I felt locked in the entire time and my heartrate was pretty steady throughout. I ended up increasing the speed just by a couple miniscule increments. I don't know if others are doing this, but I am just limit testing how much I can push while keeping a steady heartrate. Of course, the long form videos are helping so much to pass the time. I watch a great podcast interview of Jake from Ran to Japan, which kept me going. 
+
+Since it's a Sunday, I had complete freedom for how long I could be in the gym as opposed to the weekday 10am cutoff due to the class in the gym. As such, I spent a longer amount of time stretching and rolling. Rolling honestly helps more than I originally thought, and on the way back home, my muscles felt very loose and relaxed. Hopefully my stretching journey is progressing. 
 
 <br/>
 
