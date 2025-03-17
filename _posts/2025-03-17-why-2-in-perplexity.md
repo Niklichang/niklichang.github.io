@@ -28,9 +28,9 @@ Next, normalize over all $M$ words in $\mathcal{D}$, $\sqrt[M]{\prod_{s\in \math
 We then simplify with log, $\frac{1}{M}\sum_{s \in \mathcal{D}}\text{log}\space p(s)$
 
 And now the questionable equation, the perplexity of $\mathcal{D}$:
-$$
-Perplexity(\mathcal{D})= 2^{-\frac{1}{M}\sum_{s \in \mathcal{D}}\text{log}\space p(s)}
-$$
+
+$$Perplexity(\mathcal{D})= 2^{-\frac{1}{M}\sum_{s \in \mathcal{D}}\text{log}\space p(s)}$$
+
 The lower the perplexity, the better the LM. However, we can see that there are a lot of holes in this derivation. Is there a concrete reason for geometric normalization? Why simplify with log? Where did that negative sign come from? One hint that we have is that the exponential looks awfully familiar: negative sign, averaging over $M$, summation of log probabilities... It looks uncannily like the equation for entropy! Let us take a break from language models to explore wikipedia for an answer.
 
 In information theory, perplexity is a measure of uncertainty in the value of a sample from a discrete probability distribution. The larger the perplexity, the less likely it is that an observer can guess the value which will be drawn from the distribution ([Wikipedia](https://en.wikipedia.org/wiki/Perplexity)).
@@ -41,23 +41,22 @@ Let us look at some of the math:
 
 Perplexity is defined as:
 
-$$
-PP(p) := 2^{H(p)} = 2^{- \sum_x p(x) \log_2 p(x)} = \prod_x p(x)^{-p(x)}
-$$
+$$PP(p) := 2^{H(p)} = 2^{- \sum_x p(x) \log_2 p(x)} = \prod_x p(x)^{-p(x)}$$
+
 Where $H(p)$ is the entropy(in bits) of the distribution, and $x$ ranges over the events.
 
 Furthermore, when this is applied to probability modeling, where we have the proposed model $q$ and the unknown distribution $p$, better models of $q$ of that unknown distribution $p$ will tend to assign higher probabilities $q(x_i)$ to the test events. Thus, they have lower perplexity because they are less "surprised" by the test model, which is equivalent to saying that better models have higher likelihoods for the test data, which means lower perplexity. 
 
 In probability modeling, the perplexity of model $q$ is defined as 
-$$
-b^{-\frac{1}{N} \sum_{i=1}^N \log_b q(x_i)} = \left( \prod_i q(x_i) \right)^{-1/N}
-$$
+
+$$b^{-\frac{1}{N} \sum_{i=1}^N \log_b q(x_i)} = \left( \prod_i q(x_i) \right)^{-1/N}$$
+
 where $b$ is usually 2. 
 
 Where did the extra probability before the log probability go? Well, the exponent $-\frac{1}{N} \sum_{i=1}^{N} \log_b q(x_i)$ may be also interpreted as cross-entropy:
-$$
-H(\tilde{p}, q) = - \sum_{x} \tilde{p}(x) \log_b q(x)
-$$
+
+$$H(\tilde{p}, q) = - \sum_{x} \tilde{p}(x) \log_b q(x)$$
+
 where $\tilde{p}$ denotes the empirical distribution of the test sample (i.e., $\tilde{p}(x) = n/N$ if $x$ appeared $n$ times in the test sample of size $N$).
 
 However, we often disregard this $\tilde{p}$ since the empirical distribution is is usually assumed to uniform over the test sample. When each test sample is considered equally as likely, it is easy to consistently focus on evaluating the model's predictive performance. 
