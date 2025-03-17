@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Why does perplexity have a base of 2?"
-date:   2025-03-15
-last_modified_at: 2025-03-15
-categories: [Running]
+date:   2025-03-17
+last_modified_at: 2025-03-17
+categories: [Information Theory, Machine Learning]
 ---
 
 &emsp; In my most recent class in Natural Language Processing, we were going over the derivation for Perplexity. My friend asked, "why is there a base of '2' in the equation?" 
