@@ -14,6 +14,14 @@ This is the the daily run, which is the start of a larger plan to improve the in
 
 <br/>
 
+**03/17/25, Day 56**: 4.86mi easy with strides. Felt really good honestly, better than expected after a long run. Muscles are noticeably fatigued, but my heartrate was feeling really good. 
+
+Maybe I should write these posts at the end of the day. I usually have more to say when the day is over, not just about running but about miscellaneous things. Posting right after a run in the morning means I can't think of more to say, especially when the previous day's events have already long passed.
+
+
+
+<br/>
+
 **03/16/25, Day 55**: 8.50mi long run. As expected, I had to skip yesterday due to too long of activities. In the end, I think it's a good thing. Running should definitely not stop me from having some fun, at least in this stage of my running. I also got a lot of walking in yesterday at Universal Studios Beijing. Also, a single day break is pretty good right now to prevent overtraining.
 
 Overall very good first long run. I felt locked in the entire time and my heartrate was pretty steady throughout. I ended up increasing the speed just by a couple miniscule increments. I don't know if others are doing this, but I am just limit testing how much I can push while keeping a steady heartrate. Of course, the long form videos are helping so much to pass the time. I watch a great podcast interview of Jake from Ran to Japan, which kept me going. 
