@@ -2,7 +2,7 @@
 layout: post
 title:  "The Daily Run"
 date:   2024-12-02
-last_modified_at: 2025-03-16
+last_modified_at: 2025-03-18
 categories: [Running]
 ---
 
@@ -10,15 +10,17 @@ This is the the daily run, which is the start of a larger plan to improve the in
 
 *Update on 01/13/25:* This page will most likely be changed to a 6 days run and 1 day strength workout per week (no longer a "daily" run), but the intent is still the same. Run faster, get fitter, build habits.
 
-*Consecutive days counter:* 1
+*Consecutive days counter:* 3
+
+<br/>
+
+**03/18/25, Day 57**: Gym workout today. Basically a full body workout, including tris, bis, pull ups, bench, pec flys, shoulders/lats and squat. This might become somewhat of a norm now. It seems pretty worth it to add a workout day and decide to take a rest day from running. If not, I can still do a workout + short run day as well. I am thinking Saturdays/Sundays are best, so I don't have to worry about the 10am limit. I can do a condensed full body workout/strength and conditioning for legs plus a short 30 minute easy run or something. The problem is that I don't want to do the workout before my long run, so I can only do long runs on Saturday into workout Sunday. Doesn't seem like the most flexible schedule but we will see. 
 
 <br/>
 
 **03/17/25, Day 56**: 4.86mi easy with strides. Felt really good honestly, better than expected after a long run. Muscles are noticeably fatigued, but my heartrate was feeling really good. 
 
 Maybe I should write these posts at the end of the day. I usually have more to say when the day is over, not just about running but about miscellaneous things. Posting right after a run in the morning means I can't think of more to say, especially when the previous day's events have already long passed.
-
-
 
 <br/>
 
