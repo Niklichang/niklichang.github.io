@@ -2,7 +2,7 @@
 layout: post
 title:  "The Daily Run"
 date:   2024-12-02
-last_modified_at: 2025-03-18
+last_modified_at: 2025-03-19
 categories: [Running]
 ---
 
@@ -10,8 +10,15 @@ This is the the daily run, which is the start of a larger plan to improve the in
 
 *Update on 01/13/25:* This page will most likely be changed to a 6 days run and 1 day strength workout per week (no longer a "daily" run), but the intent is still the same. Run faster, get fitter, build habits.
 
-*Consecutive days counter:* 3
+*Consecutive days counter:* 4
 
+<br/>
+
+**03/19/25, Day 58**: 4.95mi easy. Sore today, my glutes definitely felt sore but not that much during the run. Mostly stretching afterwards was an experience. Triad to do some strides today, but as soon as I increased speed, but right knee started complaining. I immediately stopped the run after that. Sometimes you can't risk any more, especially after heavy squatting the day before.
+
+Heartrate was a little high as well. I will attribute it to an ongoing mini cold I have at the moment. Dry throat and stuffy nose at the moment, hopefully I get better soon. A lot of people are getting sick in China right now and I hope to avoid the worst of it (even though I got food poisoning already).
+
+Going to EDC this weekend; The strength workout was partially for this, as I wanted to benchmark my squat strength and consequently just work on everything else as well. However, I also have a homework, quiz, and research proposal due before the trip and another homework due after. I feel like going on trips on the weekend is a good plan while abroad while locking in on academics throughout the week. Easy to say but tough to do. 
 <br/>
 
 **03/18/25, Day 57**: Gym workout today. Basically a full body workout, including tris, bis, pull ups, bench, pec flys, shoulders/lats and squat. This might become somewhat of a norm now. It seems pretty worth it to add a workout day and decide to take a rest day from running. If not, I can still do a workout + short run day as well. I am thinking Saturdays/Sundays are best, so I don't have to worry about the 10am limit. I can do a condensed full body workout/strength and conditioning for legs plus a short 30 minute easy run or something. The problem is that I don't want to do the workout before my long run, so I can only do long runs on Saturday into workout Sunday. Doesn't seem like the most flexible schedule but we will see. 
