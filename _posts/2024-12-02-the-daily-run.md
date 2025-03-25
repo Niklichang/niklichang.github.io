@@ -2,7 +2,7 @@
 layout: post
 title:  "The Daily Run"
 date:   2024-12-02
-last_modified_at: 2025-03-19
+last_modified_at: 2025-03-25
 categories: [Running]
 ---
 
@@ -10,7 +10,33 @@ This is the the daily run, which is the start of a larger plan to improve the in
 
 *Update on 01/13/25:* This page will most likely be changed to a 6 days run and 1 day strength workout per week (no longer a "daily" run), but the intent is still the same. Run faster, get fitter, build habits.
 
-*Consecutive days counter:* 4
+*Consecutive days counter:* 1
+
+<br/>
+
+**03/25/25, Day 61**: 4.97mi easy. Ok I am finally back. Took a long trip to Suzhou for the weekend. I need to be better when it comes to running while on trips. Yesterday, I also fell into the trap of doing homework last minute, preventing me from going on a run. Three days away from running and I was already itching to get back out there. 
+
+I finally understand why I don't have a training status, and that's because the runs have to be recorded outdoors with GPS tracking. Honestly that does not really make sense, I am going to look more into why this is the case, since the only reason I can find is that they don't trust the data recorded indoors. I am thinking about switching to Coros once I do get a new watch anyways.
+
+Going to Qingdao starting Thursday, so I am going to have to find a way to run starting on Friday while I am out. Gonna be very fun.
+
+I have also been mildly sick for a while now. I think that I contracted something starting late last week, like Thursday, and it is just not going away. One of those stubborn sicknesses that won't leave your system. Symptoms include stuffy nose, irritated throat sometimes, and that's about it. 
+
+<br/>
+
+**03/21/25, Day 60**: 4.41mi easy. Another easy day in the books. No workout today though, nor any for the past week.
+
+One thing that I have made progress on in the past week is being consistent. Before, I was skipping runs because I had homework due on that day, but I think I am currently more responsible in that aspect. Part of it is also ignoring my work though and just going to run. It gives me a good sense of urgency in a way. 
+
+Right now I am working on having a clear cut workout schedule for the week. Currently most of my runs have been just easy running for around 40 minutes plus some strides. I think that with all the other things going on in the day, especially this past couple of days, I have not had time to think about the kind of workouts I would incorporate in the week. When I have homeworks, a quiz, and a trip to plan for, I just want to go to the treadmill and run for a bit without thinking. There is also the factor of not wanting to be tired for the rest of the day, expecially when the day is extremely busy. But of course, if I need to get faster, I need more stimulus. That will be the plan for next week.
+
+I recently watched a couple of great videos from a professor at the KTH Royal Institute of Technology in Sweden. They are fairly obscure, with only a couple thousand views max, but I got a lot of great insight. One thing he quoted was that people tend to overestimate what they can do in one year and underestimate what they can achieve in 10. He said that you first make a broad goal for the future, such as a publication by the end of the year. But from this goal is where you derive your small decisions. Your small decisions are guided by your greater goal. 
+
+This makes so much sense in any sort of context. Whenever you make a decision, it should be thought through. If I have a goal to run a half marathon, why would I decide in the moment to eat McDonald's? Change is derived from the accumulation of many tiny decisions. So if I want to write a paper, I have to constantly decide to take those small steps to get there. 
+
+<br/>
+
+**03/20/25, Day 59**: 4.65mi easy. Pace was 12:01/mi because I forgot to stop my watch. Still don't know why there is no current training status on my Garmin app. I have been going consistent for a while now, so I need to look into that. It also is a good thing at the same time because there is proof on this blog of me complaining about the training status being stupid. Now that I am being consistent though, I believe that it would show good results.
 
 <br/>
 
