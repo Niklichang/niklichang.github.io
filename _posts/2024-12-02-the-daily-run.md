@@ -2,7 +2,7 @@
 layout: post
 title:  "The Daily Run"
 date:   2024-12-02
-last_modified_at: 2025-03-25
+last_modified_at: 2025-03-26
 categories: [Running]
 ---
 
@@ -10,7 +10,13 @@ This is the the daily run, which is the start of a larger plan to improve the in
 
 *Update on 01/13/25:* This page will most likely be changed to a 6 days run and 1 day strength workout per week (no longer a "daily" run), but the intent is still the same. Run faster, get fitter, build habits.
 
-*Consecutive days counter:* 1
+*Consecutive days counter:* 2
+
+<br/>
+
+**03/26/25, Day 62**: 5.55mi workout. 5x1k at around 8min/mi(5min/km) with 2 min rest in between. 10 min warmup and 5 min cooldown. I kind of just made up the workout while warming up beforehand. It's good that I got this session in. Honestly I feel like a bit more intensity in my runs, and just doing a daily 40 minute run at around 9:30 pace won't cut it. Obviously I should not ramp up too fast; I am honestly not as worried about getting injured, but more about investing too much time too early, making me feel burned out and thus stop running. Sometimes motivation causes one to become to excited too fast and thus not be able to pace themselves for the larger picture.
+
+Workout felt ok, definitely was not running at an all out effort, which concerns me somewhat? I think workout sessions should take the most out of someone and even more so if they are doing it by themselves. I will keep that in mind for later, since now I think one harder session plus a long run is more than enough to accelerate my aerobic gains.
 
 <br/>
 
