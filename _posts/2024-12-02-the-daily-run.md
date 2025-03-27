@@ -2,7 +2,7 @@
 layout: post
 title:  "The Daily Run"
 date:   2024-12-02
-last_modified_at: 2025-03-26
+last_modified_at: 2025-03-27
 categories: [Running]
 ---
 
@@ -10,7 +10,11 @@ This is the the daily run, which is the start of a larger plan to improve the in
 
 *Update on 01/13/25:* This page will most likely be changed to a 6 days run and 1 day strength workout per week (no longer a "daily" run), but the intent is still the same. Run faster, get fitter, build habits.
 
-*Consecutive days counter:* 2
+*Consecutive days counter:* 3
+
+<br/>
+
+**03/27/25, Day 63**: 4.85mi easy with strides. Feeling not bad. I think there is progress, but it is very slow. Makes sense though. I see all the videos of people running at 6 something easy pace, and it literally blows me away how many levels there are between us. The body is an amazing thing, and the only way to get to that level is to constantly work. 
 
 <br/>
 
