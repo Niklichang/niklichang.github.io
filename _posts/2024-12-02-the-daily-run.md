@@ -2,7 +2,7 @@
 layout: post
 title:  "The Daily Run"
 date:   2024-12-02
-last_modified_at: 2025-03-27
+last_modified_at: 2025-03-31
 categories: [Running]
 ---
 
@@ -10,7 +10,13 @@ This is the the daily run, which is the start of a larger plan to improve the in
 
 *Update on 01/13/25:* This page will most likely be changed to a 6 days run and 1 day strength workout per week (no longer a "daily" run), but the intent is still the same. Run faster, get fitter, build habits.
 
-*Consecutive days counter:* 3
+*Consecutive days counter:* 1
+
+<br/>
+
+**03/31/25, Day 64**: 5.18mi easy. Tragedy strikes yet again. Long weekends out traveling, no time for running unfortunately. I just have so little sleep that I cannot transfer any more of my time to running while traveling. Honestly feels so detrimental to the progress that I make during the weekdays. That being said, there is a priority that I maintain while studying abroad, and exploring comes before running. I am therefore confident in my decisions and don't regret the lack on consistent running.
+
+There are ways to improve, though. First of all, I have to be sure that my weekdays are dialed in to whatever I need to do outside of traveling. That means healthy food, proper rest and recovery, academics, and of course running. There is a lot of both mental and physical effort to get that done.
 
 <br/>
 
