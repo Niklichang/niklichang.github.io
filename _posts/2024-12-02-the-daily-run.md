@@ -2,7 +2,7 @@
 layout: post
 title:  "The Daily Run"
 date:   2024-12-02
-last_modified_at: 2025-03-31
+last_modified_at: 2025-04-02
 categories: [Running]
 ---
 
@@ -11,6 +11,18 @@ This is the the daily run, which is the start of a larger plan to improve the in
 *Update on 01/13/25:* This page will most likely be changed to a 6 days run and 1 day strength workout per week (no longer a "daily" run), but the intent is still the same. Run faster, get fitter, build habits.
 
 *Consecutive days counter:* 1
+
+**04/02/25, Day 65**: 6.20mi tempo, including fast mile to end it off. Crazy fast workout today, my heart was absolutely racing compared to all the miles I've had on the treadmill. Shoutout to Jeston. Running with someone definitely does make you faster, but I also feel that running outside is so different than on the treadmill. My heartrate was going crazy at similar paces I have done on the treadmill, but that also just be because I am considerably sick today. Running with someone else was the only reason I pushed this hard, in that case. 
+
+I did not finish the update from yesterday, but mainly just wanted to say two things. First, I cannot find a way out of this constant cycle of half-sickness and constantly rolling the dice due to all the traveling over the weekend. I end up not running, and I also have a chance to get sick, like yesterday and basically today.
+
+Second, I got into the Beijing Half Marathon! Got lucky through the raffle, but I did not expect this much excitement going into the race. I've started planning out race kits, fueling, and thought more thoroughly than ever before about training leading up to it. The race is on April 20th, so I barely have any time to train, and I am seriously worried about treading the line between the most amount I can improve by training and the increased risk of injury. I have always wanted to do training the right way, but the lack of time is dissapointing. In a way it is a bit toxic; I shouldn't treat this race as the final destination, but something that's a part of the journey to becoming a better runner. I think amateur runners get stuck in a mindset of aspriring for a lofty time and a perfect marathon race. I should just be glad to run it and have a fun time. 
+
+Just wanted to mention that this post is officially 4 months old. With officially around 65 days of running, I think so far my progress has been a succes. It's crazy to think that on average I have been consistently running for around half the days of the week. Unfortunately, it does not feel like I have progressed. I am going to work on making a stats section at the top of this post, automatically recording average mileage as well as other metrics.
+
+<br/>
+
+**04/01/25, Day 64.5**: No running today but I wanted to jot down a little update.
 
 <br/>
 
