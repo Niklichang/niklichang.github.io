@@ -2,7 +2,7 @@
 layout: post
 title:  "The Daily Run"
 date:   2024-12-02
-last_modified_at: 2025-04-02
+last_modified_at: 2025-04-08
 categories: [Running]
 ---
 
@@ -11,6 +11,14 @@ This is the the daily run, which is the start of a larger plan to improve the in
 *Update on 01/13/25:* This page will most likely be changed to a 6 days run and 1 day strength workout per week (no longer a "daily" run), but the intent is still the same. Run faster, get fitter, build habits.
 
 *Consecutive days counter:* 1
+
+**04/08/25, Day 67**: 9.94mi long run + marathon pace miles for last 30min. We are so back. Did not do any running in 西安 due to other reasons. I keep making the excuse that traveling is higher priority than running and therefore do not end up running on weekends, but it is the truth. I feel like as a person, I am growing so much emotionally during study abroad as well as learning so much about China and its culture, which definitely takes precedence over running. 
+
+The run felt really good today. Getting in a longer session is important, as well as trying new gels. The honey stinger seems like a pretty good candidate for the half marathon. Although my heartrate was kind of high, I have confidence going into the marathon for at least a reasonable goal such as sub 2 hours. Going to go with one more long run probably on the weekend, around half marathon distance. One more speed session will probably help as well, but something more chill like tempo miles. Other than that probably going to run mostly easy next week before the marathon.
+
+**04/03/25, Day 66**: 4.31mi easy. Felt really happy today for some reason. Partially because I was stretching and felt considerable progress. Not much else to say buy I'm constantly thinking about training, which is a good and bad thing, and I am also worried about injury.
+
+Not sure what I'm going to do when it comes to training while in Xi'an but we'll see.
 
 **04/02/25, Day 65**: 6.20mi tempo, including fast mile to end it off. Crazy fast workout today, my heart was absolutely racing compared to all the miles I've had on the treadmill. Shoutout to Jeston. Running with someone definitely does make you faster, but I also feel that running outside is so different than on the treadmill. My heartrate was going crazy at similar paces I have done on the treadmill, but that also just be because I am considerably sick today. Running with someone else was the only reason I pushed this hard, in that case. 
 
