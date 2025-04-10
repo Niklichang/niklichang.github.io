@@ -10,7 +10,16 @@ This is the the daily run, which is the start of a larger plan to improve the in
 
 *Update on 01/13/25:* This page will most likely be changed to a 6 days run and 1 day strength workout per week (no longer a "daily" run), but the intent is still the same. Run faster, get fitter, build habits.
 
-*Consecutive days counter:* 1
+*Consecutive days counter:* 3
+
+**04/10/25, Day 69**: 6.82mi cut down workout. 2 miles 9 pace, 2 miles 8:45, 1 mile 8:30. A good little workout before my half marathon next weekend. Tried to simulate a bit the latter half of the race, where I hope to pull off a negative split after the first half at 9 minute pace. Definitely my last workout before the race as well. One more long run to go and a bit of taper and then the race! Need to remember to order final gels and stuff.
+
+Been running a harder because of the upcoming race obviously, but another big reason is just to forget the pain. My mind just feels so clear and free of everything else in life. Youtube videos are are good edition as well. Been an emotional rollercoaster couple of weeks and hopefully everything will be over come racetime.
+
+**04/09/25, Day 68**: 6.53mi easy. Going harder now. Yep. Half marathon training, yep. More like further not necessarily harder. Yep...
+
+Avengers are starting to break up :( Feels bad but that is just the way of things. Just realized that some friends have planned a trip to Korea, and I want to go to Korea too, but I don't want to go with them. Feels bad
+
 
 **04/08/25, Day 67**: 9.94mi long run + marathon pace miles for last 30min. We are so back. Did not do any running in 西安 due to other reasons. I keep making the excuse that traveling is higher priority than running and therefore do not end up running on weekends, but it is the truth. I feel like as a person, I am growing so much emotionally during study abroad as well as learning so much about China and its culture, which definitely takes precedence over running. 
 
