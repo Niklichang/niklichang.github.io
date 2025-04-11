@@ -10,7 +10,17 @@ This is the the daily run, which is the start of a larger plan to improve the in
 
 *Update on 01/13/25:* This page will most likely be changed to a 6 days run and 1 day strength workout per week (no longer a "daily" run), but the intent is still the same. Run faster, get fitter, build habits.
 
-*Consecutive days counter:* 3
+*Consecutive days counter:* 4
+
+**04/11/25, Day 70**: 5.82mi easy. When easy doesn't feel that easy what do you do one week out from your race? Pray I guess, and get the miles in.
+
+Getting very windy and apparently going to have a huge dust/wind storm coming into Beijing these next couple of days. Was hoping to get my final long run in on Sunday, but most likely have to move it to Monday, and even that might not be possible. The problem is that I want to get this long run in outside, preferrably at the Olympic Park. I need to gauge how pacing really feels with mile/km markers and not just relying on watch pace or treadmill pace. I cannot do the long run on Tuesday, that is just too close the the race. 
+
+After searching up some stuff, I realize that it is actually closer than I think. Apparently a long run exactly 1 week out from the race is too close and I should already be about to start a taper. Honestly though I don't care about that so I'm just going to run it. If the wind is bad I will do it on the treadmill instead.
+
+After running for 50+ days on a treadmill, I can confidently say that I am still confused about the treadmill distance. In theory it should be exact because it should be very simple to calculate the distance as a function of rotations of the tread over a certain period of time. Of course this is not the case and I realize that calibration errors can completely alter paces.
+
+Going to add a section about how I feel on this blog after watching a little video on habits. I have been kind of doing this already, but I want this to be like a nighttime relaxing routine in a way. Today was a very uneventful day. I feel like I got a couple things right as in getting random stuff I have been ignoring done, such as washing clothes, buying stuff from my list, getting a haircut, cleaning up. Other than that though, nothing notable apart from my morning run. Tomorrow should be a full study day for me, no slacking.
 
 **04/10/25, Day 69**: 6.82mi cut down workout. 2 miles 9 pace, 2 miles 8:45, 1 mile 8:30. A good little workout before my half marathon next weekend. Tried to simulate a bit the latter half of the race, where I hope to pull off a negative split after the first half at 9 minute pace. Definitely my last workout before the race as well. One more long run to go and a bit of taper and then the race! Need to remember to order final gels and stuff.
 
