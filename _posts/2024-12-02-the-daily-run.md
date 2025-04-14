@@ -2,7 +2,7 @@
 layout: post
 title:  "The Daily Run"
 date:   2024-12-02
-last_modified_at: 2025-04-08
+last_modified_at: 2025-04-14
 categories: [Running]
 ---
 
@@ -10,7 +10,23 @@ This is the the daily run, which is the start of a larger plan to improve the in
 
 *Update on 01/13/25:* This page will most likely be changed to a 6 days run and 1 day strength workout per week (no longer a "daily" run), but the intent is still the same. Run faster, get fitter, build habits.
 
-*Consecutive days counter:* 4
+*Consecutive days counter:* 7
+
+<br/>
+
+**04/14/25, Day 73**: 4.72mi easy. Felt not bad today, was doing a bit of nose breathing not out of any intent but it just felt natural. I don't know the full reason, but partially maybe because the pace is getting easier, not just physically but mentally. 
+
+Tomorrow I am going to run a moderate long/tempo type run, most likely 9 miles with 6 at marathon pace and 3 miles pickup. Maybe 8 miles, but I just want to simulate the start of the race until after halfway in order to test gels. Very late in training and from what I looked up I should already be tapering, but I don't care to be honest. Work harder not smarter I guess.
+
+<br/>
+
+**04/13/25, Day 72**: 6.50mi easy. Great day, I think I am more rested than yesterday. Heartrate was extremely consistent and low. I also believe that I will listen to music on the run, specifically one song called "Endless Torture" by Wayne Bergeron on repeat. I feel really good and I'm excited for the race, my gels just need to come in so I can test them.
+
+<br/>
+
+**04/12/25, Day 71**: 5.50mi easy. Very confusing day. The body felt very lethargic and slow, but cadence was fine and heartrate was surprisingly low. In part probably because it's cooler now due to strong winds in the area, but I felt good about it. 141 bpm average but it is still on a constant rise on the graph, so I don't know if that's a good thing. I thought threshold is where you can maintain a certain heartrate for about an hour, but maybe slowly rising is fine too.
+
+<br/>
 
 **04/11/25, Day 70**: 5.82mi easy. When easy doesn't feel that easy what do you do one week out from your race? Pray I guess, and get the miles in.
 
@@ -22,22 +38,31 @@ After running for 50+ days on a treadmill, I can confidently say that I am still
 
 Going to add a section about how I feel on this blog after watching a little video on habits. I have been kind of doing this already, but I want this to be like a nighttime relaxing routine in a way. Today was a very uneventful day. I feel like I got a couple things right as in getting random stuff I have been ignoring done, such as washing clothes, buying stuff from my list, getting a haircut, cleaning up. Other than that though, nothing notable apart from my morning run. Tomorrow should be a full study day for me, no slacking.
 
+<br/>
+
 **04/10/25, Day 69**: 6.82mi cut down workout. 2 miles 9 pace, 2 miles 8:45, 1 mile 8:30. A good little workout before my half marathon next weekend. Tried to simulate a bit the latter half of the race, where I hope to pull off a negative split after the first half at 9 minute pace. Definitely my last workout before the race as well. One more long run to go and a bit of taper and then the race! Need to remember to order final gels and stuff.
 
 Been running a harder because of the upcoming race obviously, but another big reason is just to forget the pain. My mind just feels so clear and free of everything else in life. Youtube videos are are good edition as well. Been an emotional rollercoaster couple of weeks and hopefully everything will be over come racetime.
+
+<br/>
 
 **04/09/25, Day 68**: 6.53mi easy. Going harder now. Yep. Half marathon training, yep. More like further not necessarily harder. Yep...
 
 Avengers are starting to break up :( Feels bad but that is just the way of things. Just realized that some friends have planned a trip to Korea, and I want to go to Korea too, but I don't want to go with them. Feels bad
 
+<br/>
 
 **04/08/25, Day 67**: 9.94mi long run + marathon pace miles for last 30min. We are so back. Did not do any running in 西安 due to other reasons. I keep making the excuse that traveling is higher priority than running and therefore do not end up running on weekends, but it is the truth. I feel like as a person, I am growing so much emotionally during study abroad as well as learning so much about China and its culture, which definitely takes precedence over running. 
 
 The run felt really good today. Getting in a longer session is important, as well as trying new gels. The honey stinger seems like a pretty good candidate for the half marathon. Although my heartrate was kind of high, I have confidence going into the marathon for at least a reasonable goal such as sub 2 hours. Going to go with one more long run probably on the weekend, around half marathon distance. One more speed session will probably help as well, but something more chill like tempo miles. Other than that probably going to run mostly easy next week before the marathon.
 
+<br/>
+
 **04/03/25, Day 66**: 4.31mi easy. Felt really happy today for some reason. Partially because I was stretching and felt considerable progress. Not much else to say buy I'm constantly thinking about training, which is a good and bad thing, and I am also worried about injury.
 
 Not sure what I'm going to do when it comes to training while in Xi'an but we'll see.
+
+<br/>
 
 **04/02/25, Day 65**: 6.20mi tempo, including fast mile to end it off. Crazy fast workout today, my heart was absolutely racing compared to all the miles I've had on the treadmill. Shoutout to Jeston. Running with someone definitely does make you faster, but I also feel that running outside is so different than on the treadmill. My heartrate was going crazy at similar paces I have done on the treadmill, but that also just be because I am considerably sick today. Running with someone else was the only reason I pushed this hard, in that case. 
 
@@ -256,7 +281,7 @@ I recently watched a video on the Western States 100 and was confused on why the
 
 <br/>
 
-**01/17/25, Day 33**: 1.25 hills. Felt extremely tiring on the way up, which is expected.
+**01/17/25, Day 33**: 1.25mi hills. Felt extremely tiring on the way up, which is expected.
 
 Also expected, but somewhat surprising, was how hard it was for me to actually run up here. Got some people on the retreat acting like my mom (im mad). The run tomorrow will probably better due to the light.
 
@@ -370,7 +395,7 @@ I've also looked into a book called *Daniel's Running Formula*, by Jack Daniels.
 
 <br/>
 
-**12/22/24, Day 11**: 1.19mi, super gassed. Just played basketball with some friends beforehand, and the run felt like the last mile of a 5k. There is something to say about continuing the streak in ratios; I'm just getting something in no matter how much I don't want to run that day. Hopefully I can keep up this mentality though.
+**12/22/24, Day 11**: 1.19mi easy, super gassed. Just played basketball with some friends beforehand, and the run felt like the last mile of a 5k. There is something to say about continuing the streak in ratios; I'm just getting something in no matter how much I don't want to run that day. Hopefully I can keep up this mentality though.
 
 <br/>
 
@@ -394,7 +419,7 @@ I've also looked into a book called *Daniel's Running Formula*, by Jack Daniels.
 
 <br/>
 
-**12/16/24, Day 5**: 2.12mi, 11:09/mi. Using a Garmin Forerunner 935 today, obtained a used one. I have mixed feelings about it, but I know it will be more helpful in the long run. 
+**12/16/24, Day 5**: 2.12mi easy, 11:09/mi. Using a Garmin Forerunner 935 today, obtained a used one. I have mixed feelings about it, but I know it will be more helpful in the long run. 
 
 <br/>
 
@@ -402,16 +427,16 @@ I've also looked into a book called *Daniel's Running Formula*, by Jack Daniels.
 
 <br/>
 
-**12/05/24, Day 4**: 3.17 mi, 1 mile threshold at 7:36. Not much to say today, and I honestly thought that I could do a bit better. I feel like 8:27 pace for 10k sounds a lot better than this. Only way to improve is to keep going.
+**12/05/24, Day 4**: 3.17mi workout, 1 mile threshold at 7:36. Not much to say today, and I honestly thought that I could do a bit better. I feel like 8:27 pace for 10k sounds a lot better than this. Only way to improve is to keep going.
 
 <br/>
 
-**12/04/24, Day 3**: 1.9 miles easy, 9:05/mi. A couple ideas came to me today. First of all, this run today is a testament to the detriments of procrastination. I had time this morning, yet I felt too lazy to get up to run. Come evening, I still had homework to do, and in the end didn't run until after 10pm. Not a good situation, especially if I'm in a situation at the end of the day where I can't run because I am out somewhere, and therefore a big waste of mental energy and time. Second, I mentioned before about the idea of no zero days. However, one can only greatly improve at something by spending time doing it. Therefore, it's a matter of perspective. If you go into something thinking that you just need to get a bit done consistently, will you make leaps and bounds? Probably not. Consistency is just a foolproof way to rack up time spent. However, the driven will enjoy the process and in turn greatly progress. Two sides of the same coin. Lastly, I was thinking of this idea of habits. Consistency is the basis of habits, and habits constitute change. But why is it so hard to form? Many people say that if you consistently do something for 2 weeks/1 month/X amount of time, it becomes natural. But the problem is, one can't dedicate so much time to something new everyday without considerable effort. Not only are you trying to form a new habit, this extra block of time needs to replace something else you have been doing before then. Some might say, yeah, there's so much time people waste daily on their phones, entertainment, etc. But this "waste" of time is a habit, too. It's just a bad habit. And so when people say a habit becomes natural after a certain amount of time, how many days have you spent building up a "wasteful" habit? It's hard to just drop that for something new, even if you know it is unproductive. Anyways, I hope no one else is running at 10pm.
+**12/04/24, Day 3**: 1.90mi easy, 9:05/mi. A couple ideas came to me today. First of all, this run today is a testament to the detriments of procrastination. I had time this morning, yet I felt too lazy to get up to run. Come evening, I still had homework to do, and in the end didn't run until after 10pm. Not a good situation, especially if I'm in a situation at the end of the day where I can't run because I am out somewhere, and therefore a big waste of mental energy and time. Second, I mentioned before about the idea of no zero days. However, one can only greatly improve at something by spending time doing it. Therefore, it's a matter of perspective. If you go into something thinking that you just need to get a bit done consistently, will you make leaps and bounds? Probably not. Consistency is just a foolproof way to rack up time spent. However, the driven will enjoy the process and in turn greatly progress. Two sides of the same coin. Lastly, I was thinking of this idea of habits. Consistency is the basis of habits, and habits constitute change. But why is it so hard to form? Many people say that if you consistently do something for 2 weeks/1 month/X amount of time, it becomes natural. But the problem is, one can't dedicate so much time to something new everyday without considerable effort. Not only are you trying to form a new habit, this extra block of time needs to replace something else you have been doing before then. Some might say, yeah, there's so much time people waste daily on their phones, entertainment, etc. But this "waste" of time is a habit, too. It's just a bad habit. And so when people say a habit becomes natural after a certain amount of time, how many days have you spent building up a "wasteful" habit? It's hard to just drop that for something new, even if you know it is unproductive. Anyways, I hope no one else is running at 10pm.
 
 <br/>
 
-**12/03/24**: 2.98 miles kind of tempo. Strava says 9:19/mi, and based off my recent 52:29 10k, which is 8 minutes 27 a mile, seems a little slow. I was breathing hard. Need to configure garmin watch that I have, so I can get more insight into data. Finals are coming up, so hopefully I can keep up the daily run. Seems to me that there is just so much time in the day in which I can be more productive, yet it's tough to change out of bad habits, like being on the phone or youtube. I have to say this log is partially in inspiration of Brock Kelly's (youtuber) the daily mile. Also, building on top of that, habits don't need to be so black and white. Believe that, in this case, I have to go out and run a certain distance every day seems to only put more inertia on habits your are trying to build. I read a great [blog post](https://knhash.in/streaks-ratios-not-absolutes/) in which the author described an idea of no zero days. "Not to look at streaks as a binary sequence of 0s and 1s, but as a sequence of floating point values." I don't feel like running X miles today. Try just running 1. I don't feel like running in general. Maybe just take a walk outside. Just avoid staying at zero. And in the end, what you are trying to achieve is consistency of effort, not the perfect streak of runs.
+**12/03/24**: 2.98mi kind of tempo. Strava says 9:19/mi, and based off my recent 52:29 10k, which is 8 minutes 27 a mile, seems a little slow. I was breathing hard. Need to configure garmin watch that I have, so I can get more insight into data. Finals are coming up, so hopefully I can keep up the daily run. Seems to me that there is just so much time in the day in which I can be more productive, yet it's tough to change out of bad habits, like being on the phone or youtube. I have to say this log is partially in inspiration of Brock Kelly's (youtuber) the daily mile. Also, building on top of that, habits don't need to be so black and white. Believe that, in this case, I have to go out and run a certain distance every day seems to only put more inertia on habits your are trying to build. I read a great [blog post](https://knhash.in/streaks-ratios-not-absolutes/) in which the author described an idea of no zero days. "Not to look at streaks as a binary sequence of 0s and 1s, but as a sequence of floating point values." I don't feel like running X miles today. Try just running 1. I don't feel like running in general. Maybe just take a walk outside. Just avoid staying at zero. And in the end, what you are trying to achieve is consistency of effort, not the perfect streak of runs.
 
 <br/>
 
-**12/02/24**: 2.3 miles easy pace. Simple run today, the point of it is to be consistent. No focus on structure or pacing, just running. Been out for many weeks, so I just need to be back on my feet building mileage. Excited to get back into running, especially since now I want to focus more time doing actual research in building a training plan.
+**12/02/24**: 2.30mi easy pace. Simple run today, the point of it is to be consistent. No focus on structure or pacing, just running. Been out for many weeks, so I just need to be back on my feet building mileage. Excited to get back into running, especially since now I want to focus more time doing actual research in building a training plan.
