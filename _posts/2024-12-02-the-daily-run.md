@@ -9,7 +9,15 @@ This is the the daily run, which is the start of a larger plan to improve the in
 
 *Update on 01/13/25:* This page will most likely be changed to a 6 days run and 1 day strength workout per week (no longer a "daily" run), but the intent is still the same. Run faster, get fitter, build habits.
 
-*Consecutive days counter:* 7
+<br/>
+
+**04/15/25, Day 74**: 8.90mi workout. Around 6 miles at first half marathon pace and <2 miles a bit fister (~8:30/mi) pace. Last workout before the marathon, feeling really solid. Stomach a bit wacky after the run, hopefully that doesn't happen 10 miles in on race day...
+
+First time getting subungual hematoma. Honestly surprised I haven't gotten it earlier, but now my right second toe kind of stings if I put pressure on it. Not the most optimal, but glad I know this now. Going to trim the nail and obviously have a very easy day tomorrow. Looking at 3-4 miles only.
+
+Getting rid of the consecutive days counter. Just watched a video on the importance of recovery for not just running, but for managing overall stress in the body, or allostatic load. It kind of introduced me to the idea of stress not as a psychological state but an actual biological condition that can be measured by cortisol, hormones, or other substances in the body. 
+
+Ultimately, all the consecutive days counter does is promote an obsession instead of building a healthy habit. Now this does not mean that removing it is a sign of slacking in any way; I don't plan on resting any less than what I do now, at least for now. I think that when people acknowledge this scientific grounding and understanding they start to make more excuses just because they believe they are more knowledgeable. I am no expert in this, so I don't plan on changing anything right now. 
 
 <br/>
 
