@@ -11,6 +11,16 @@ This is the the daily run, which is the start of a larger plan to improve the in
 
 <br/>
 
+**04/18/25, Day 76**: 3.22mi easy. Further taper, and tomorrow just going to get in some walking. 
+
+Picked up my half marathon kit today, pretty exciting. Got a picture on the name wall, and I love the shirt they gave us. Overall very hyped, but need to keep shifting my sleep schedule.
+
+<br/>
+
+**04/17/25, Day 75**: 4.36 mi easy. On the taper now, not much to say.
+
+<br/>
+
 **04/15/25, Day 74**: 8.90mi workout. Around 6 miles at first half marathon pace and <2 miles a bit fister (~8:30/mi) pace. Last workout before the marathon, feeling really solid. Stomach a bit wacky after the run, hopefully that doesn't happen 10 miles in on race day...
 
 First time getting subungual hematoma. Honestly surprised I haven't gotten it earlier, but now my right second toe kind of stings if I put pressure on it. Not the most optimal, but glad I know this now. Going to trim the nail and obviously have a very easy day tomorrow. Looking at 3-4 miles only.
