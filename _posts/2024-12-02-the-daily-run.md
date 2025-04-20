@@ -9,6 +9,26 @@ This is the the daily run, which is the start of a larger plan to improve the in
 
 *Update on 01/13/25:* This page will most likely be changed to a 6 days run and 1 day strength workout per week (no longer a "daily" run), but the intent is still the same. Run faster, get fitter, build habits.
 
+*Update on 04/20/25:* Hiatus??
+
+**04/18/25, Day 77**: 13.26mi ALL OUT! 1:48:24, Beijing Half Marathon, what a ride. So many people, which was a good and bad thing. I think overall this sort of race environment is the best to bring out the best in anyone. Great atmosphere, cheering, support, big crowds, clogged paths, weaving through people. This race had it all.
+
+The pacing went absolutely amazing, apart from around mile three. Took a tight turn into a busy road, so all the runners were confined to a side lane. A single lane supporting tens of thousands of runners is definitely not ideal, and I had no choice but to slow down. With everything said and done though, if I had gone out at my original pace before this, I might have blown up by the end. So maybe in the end it was a good thing for my pacing. Ultimately though, literally perfect negative splits coming out, mile by mile. Cannot be more proud of myself and I definitely put everything out there for this race.
+
+Before the slowdown, all I was thinking about was hitting 5:30km splits. Worked out not bad, and when I found myself with room to breathe I was only around 20 seconds behind that. I continued to aim for 5:30 splits, but as the k's went by I started doing some 5 minute kms, so I switched to aiming for that. By the last 5km, I started to hit some 4:30's and last km I gave everything I had. Worked out perfectly, and shoutout to Alex and Alice for being at the finish line to support me. Extremely grateful for them taking the time out of the day for me.
+
+What's in store for the future? I have thought long and hard about this, and I feel that overall, running is too much of a time sink at the moment. Very unfortunate to say this but it is the truth. Right now I am studying abroad, and to take 2 hours of my day every weekday in the gym is just removing time from other things I want to accomplish.
+
+The thing is, as I have mentioned earlier, is that running is more than just the time spent exercising. It seeps into your life in so many different ways: Consuming running content, recovery, injury prevention/stretching, watching what you eat with running in mind, thinking about workouts, the list goes on. What I am saying is that there is time spent outside, whether that be actual time spent doing stuff or time spent mentally. The idea of stress, of allostatic load.
+
+I am the type of person who wants to do something good, something thorough if I commit to it, and I felt as if preparation for the half marathon for the past 3 weeks took so much out of me. Yes, now that I have done it it will not be as all-consuming if I do it again. But in China? While in school? While looking for a job?
+
+In my current scope, I have things more important to me at the moment. Learning Chinese, research, exploring. I have realized that above all, I cannot mentally balance all of these things. In the broader scope, I also have things that I deem more important, mainly research and jobs.
+
+That being said, here is the plan moving forward: No more races until I figure out my life. However, I will still try to run. While I feel I cannot live without exercise, I will not let it take over my life. Imagine if I had the mental effort to put in 1, 2 hours to research/job hunting. Thus, I will slowly figure out a schedule where I can incorporate running/exercise, but not make it a main priority.
+
+Just realized that today is day 77 of this post, a lucky day I guess. At this point I honestly don't know when the next day will be, but so be it. Maybe more posts will come with diary entries and no running, who knows? What about new post, the daily blog? We shall see. Thanks to anyone tuning in.
+
 <br/>
 
 **04/18/25, Day 76**: 3.22mi easy. Further taper, and tomorrow just going to get in some walking. 
