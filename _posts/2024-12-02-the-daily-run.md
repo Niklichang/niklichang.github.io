@@ -9,7 +9,13 @@ This is the the daily run, which is the start of a larger plan to improve the in
 
 *Update on 01/13/25:* This page will most likely be changed to a 6 days run and 1 day strength workout per week (no longer a "daily" run), but the intent is still the same. Run faster, get fitter, build habits.
 
-*Update on 04/20/25:* Hiatus??
+<br/>
+
+**04/25/25, Day 78**: 3.07mi easy. First day back after the half. Honestly don't know what to feel. It's been a bit weird, but running again feels good. I have been thinking a lot about what I want to do about running going forward, and I am still in a limbo.
+
+Sometimes it is just better to not think and just do. In this case, I believe that I can continue running daily or close to that without taking up too much time in life. Life is made up of a whole bunch of decisions, and I am able to shift that to my advantage to not only run more but be more productive than before. See you tomorrow i guess
+
+<br/>
 
 **04/18/25, Day 77**: 13.26mi ALL OUT! 1:48:24, Beijing Half Marathon, what a ride. So many people, which was a good and bad thing. I think overall this sort of race environment is the best to bring out the best in anyone. Great atmosphere, cheering, support, big crowds, clogged paths, weaving through people. This race had it all.
 
