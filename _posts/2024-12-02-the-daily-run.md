@@ -9,6 +9,12 @@ This is the the daily run, which is the start of a larger plan to improve the in
 
 *Update on 01/13/25:* This page will most likely be changed to a 6 days run and 1 day strength workout per week (no longer a "daily" run), but the intent is still the same. Run faster, get fitter, build habits.
 
+*Update on 06/29/25:* This page has been indefinitely put on hold. Updating my website once a day seems a bit too much of a chore and was good for a while. I have thought of a better way, where I will be posting weekly on my ["Weekly Blog Page"](https://niklichang.github.io/2025/09/16/the-weekly-blog). Check it out!
+
+<br/>
+
+**05/10/25, Day 79**: 3.64mi easy. Nothing to say.
+
 <br/>
 
 **04/25/25, Day 78**: 3.07mi easy. First day back after the half. Honestly don't know what to feel. It's been a bit weird, but running again feels good. I have been thinking a lot about what I want to do about running going forward, and I am still in a limbo.

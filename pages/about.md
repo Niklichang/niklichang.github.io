@@ -8,13 +8,16 @@ permalink: /about/
 
 ## Education
 **University of California San Diego**
-- *B.S. Computer Engineering* \| Sep 2021 - Jun 2025
-- *M.S. Electrical Engineering (Machine Learning and Data Science)* \| Sep 2025 - Jun 2026
+- *BS, Computer Engineering* \| 2025
+- *MS Computer Engineering (Machine Learning and Data Science)* \| Present
+
+**Peking University**
+- *UCEAP Exchange* \| Spring 2025
 
 ## Experience
 **Salk Institute for Biological Studies**
 <!-- - *idk yet* \| London, UK \| idk yet - idk yet -->
-- *Data Research Intern* \| San Diego, CA \| Aug 2023 - Dec 2023
+- *Research Intern* \| San Diego, CA \| Aug 2023 - Dec 2023
 
 ## Contact Me
 Email: [nhchang@ucsd.edu](mailto:nhchang@ucsd.edu)
